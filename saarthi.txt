@@ -1,0 +1,911 @@
+<div id="contents" class="style-scope ytd-item-section-renderer"><ytd-grid-renderer class="style-scope ytd-item-section-renderer" mini-guide-visible=""><!--css-build:shady--><dom-if class="style-scope ytd-grid-renderer"><template is="dom-if"></template></dom-if>
+<div id="items" class="style-scope ytd-grid-renderer"><ytd-grid-video-renderer class="style-scope ytd-grid-renderer" lockup=""><!--css-build:shady--><div id="dismissable" class="style-scope ytd-grid-video-renderer"><ytd-thumbnail use-hovered-property="" class="style-scope ytd-grid-video-renderer"><!--css-build:shady--><a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=e7fgFi0W7uA">
+  <yt-img-shadow ftl-eligible="" class="style-scope ytd-thumbnail no-transition" style="background-color: transparent;" loaded=""><!--css-build:shady--><img id="img" class="style-scope yt-img-shadow" alt="" width="210" src="https://i.ytimg.com/vi/e7fgFi0W7uA/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&amp;rs=AOn4CLCB3ACwH4aNZXBiXrviRUtup0uFVg"></yt-img-shadow>
+  
+  <div id="overlays" class="style-scope ytd-thumbnail"><ytd-thumbnail-overlay-time-status-renderer class="style-scope ytd-thumbnail" overlay-style="DEFAULT"><!--css-build:shady--><yt-icon class="style-scope ytd-thumbnail-overlay-time-status-renderer" disable-upgrade="" hidden=""></yt-icon><span class="style-scope ytd-thumbnail-overlay-time-status-renderer" aria-label="43 minutes, 39 seconds">
+  43:39
+</span></ytd-thumbnail-overlay-time-status-renderer><ytd-thumbnail-overlay-now-playing-renderer class="style-scope ytd-thumbnail"><!--css-build:shady--><span class="style-scope ytd-thumbnail-overlay-now-playing-renderer">Now playing</span>
+</ytd-thumbnail-overlay-now-playing-renderer></div>
+  <div id="mouseover-overlay" class="style-scope ytd-thumbnail"></div>
+  <div id="hover-overlays" class="style-scope ytd-thumbnail"></div>
+</a>
+</ytd-thumbnail><div id="details" class="style-scope ytd-grid-video-renderer"><div id="meta" class="style-scope ytd-grid-video-renderer"><h3 class="style-scope ytd-grid-video-renderer"><ytd-badge-supported-renderer class="style-scope ytd-grid-video-renderer" disable-upgrade="" hidden=""></ytd-badge-supported-renderer><a id="video-title" class="yt-simple-endpoint style-scope ytd-grid-video-renderer" aria-label="40 Minute Upper Body Push Workout | TRANSCEND - Day 30 by Sydney Cummings 19 hours ago 43 minutes 30,888 views" title="40 Minute Upper Body Push Workout | TRANSCEND - Day 30" href="/watch?v=e7fgFi0W7uA">40 Minute Upper Body Push Workout | TRANSCEND - Day 30</a></h3><div id="metadata-container" class="grid style-scope ytd-grid-video-renderer" meta-block=""><div id="metadata" class="style-scope ytd-grid-video-renderer"><div id="byline-container" class="style-scope ytd-grid-video-renderer" hidden=""><ytd-channel-name id="channel-name" class="style-scope ytd-grid-video-renderer"><!--css-build:shady--><div id="container" class="style-scope ytd-channel-name">
+  <div id="text-container" class="style-scope ytd-channel-name">
+    <yt-formatted-string id="text" title="" class="style-scope ytd-channel-name" ellipsis-truncate=""></yt-formatted-string>
+  </div>
+  <paper-tooltip fit-to-visible-bounds="" class="style-scope ytd-channel-name" role="tooltip" tabindex="-1"><!--css-build:shady-->
+    
+
+    <div id="tooltip" class="hidden style-scope paper-tooltip">
+      
+    
+  
+    </div>
+</paper-tooltip>
+</div>
+<ytd-badge-supported-renderer class="style-scope ytd-channel-name" disable-upgrade="" hidden="">
+</ytd-badge-supported-renderer>
+</ytd-channel-name></div><div id="metadata-line" class="style-scope ytd-grid-video-renderer"><span class="style-scope ytd-grid-video-renderer">30K views</span><span class="style-scope ytd-grid-video-renderer">19 hours ago</span><dom-repeat strip-whitespace="" class="style-scope ytd-grid-video-renderer"><template is="dom-repeat"></template></dom-repeat></div></div><div id="additional-metadata-line" class="style-scope ytd-grid-video-renderer"><dom-repeat strip-whitespace="" class="style-scope ytd-grid-video-renderer"><template is="dom-repeat"></template></dom-repeat></div></div></div><ytd-badge-supported-renderer id="video-badges" class="style-scope ytd-grid-video-renderer" disable-upgrade="" hidden=""></ytd-badge-supported-renderer><div id="menu" class="style-scope ytd-grid-video-renderer"><ytd-menu-renderer class="style-scope ytd-grid-video-renderer"><!--css-build:shady--><div id="top-level-buttons" class="style-scope ytd-menu-renderer"></div>
+<yt-icon-button id="button" class="dropdown-trigger style-scope ytd-menu-renderer"><!--css-build:shady--><button id="button" class="style-scope yt-icon-button" aria-label="Action menu">
+  <yt-icon class="style-scope ytd-menu-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" class="style-scope yt-icon" style="pointer-events: none; display: block; width: 100%; height: 100%;"><g class="style-scope yt-icon"><path d="M12 8c1.1 0 2-.9 2-2s-.9-2-2-2-2 .9-2 2 .9 2 2 2zm0 2c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm0 6c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2z" class="style-scope yt-icon"></path></g></svg><!--css-build:shady--></yt-icon>
+</button></yt-icon-button>
+</ytd-menu-renderer></div></div><div id="buttons" class="style-scope ytd-grid-video-renderer"></div></div><div id="dismissed" class="style-scope ytd-grid-video-renderer"><div id="dismissed-content" class="style-scope ytd-grid-video-renderer"></div></div></ytd-grid-video-renderer><ytd-grid-video-renderer class="style-scope ytd-grid-renderer" lockup=""><!--css-build:shady--><div id="dismissable" class="style-scope ytd-grid-video-renderer"><ytd-thumbnail use-hovered-property="" class="style-scope ytd-grid-video-renderer"><!--css-build:shady--><a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=7Drycn4MnsE">
+  <yt-img-shadow ftl-eligible="" class="style-scope ytd-thumbnail no-transition" style="background-color: transparent;" loaded=""><!--css-build:shady--><img id="img" class="style-scope yt-img-shadow" alt="" width="210" src="https://i.ytimg.com/vi/7Drycn4MnsE/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&amp;rs=AOn4CLAUIacIy51e7isoFL8ZIBT-OaGnHA"></yt-img-shadow>
+  
+  <div id="overlays" class="style-scope ytd-thumbnail"><ytd-thumbnail-overlay-time-status-renderer class="style-scope ytd-thumbnail" overlay-style="DEFAULT"><!--css-build:shady--><yt-icon class="style-scope ytd-thumbnail-overlay-time-status-renderer" disable-upgrade="" hidden=""></yt-icon><span class="style-scope ytd-thumbnail-overlay-time-status-renderer" aria-label="50 minutes, 51 seconds">
+  50:51
+</span></ytd-thumbnail-overlay-time-status-renderer><ytd-thumbnail-overlay-now-playing-renderer class="style-scope ytd-thumbnail"><!--css-build:shady--><span class="style-scope ytd-thumbnail-overlay-now-playing-renderer">Now playing</span>
+</ytd-thumbnail-overlay-now-playing-renderer></div>
+  <div id="mouseover-overlay" class="style-scope ytd-thumbnail"></div>
+  <div id="hover-overlays" class="style-scope ytd-thumbnail"></div>
+</a>
+</ytd-thumbnail><div id="details" class="style-scope ytd-grid-video-renderer"><div id="meta" class="style-scope ytd-grid-video-renderer"><h3 class="style-scope ytd-grid-video-renderer"><ytd-badge-supported-renderer class="style-scope ytd-grid-video-renderer" disable-upgrade="" hidden=""></ytd-badge-supported-renderer><a id="video-title" class="yt-simple-endpoint style-scope ytd-grid-video-renderer" aria-label="45 Minute Legs Level 5 Workout | TRANSCEND - Day 29 by Sydney Cummings 1 day ago 50 minutes 47,107 views" title="45 Minute Legs Level 5 Workout | TRANSCEND - Day 29" href="/watch?v=7Drycn4MnsE">45 Minute Legs Level 5 Workout | TRANSCEND - Day 29</a></h3><div id="metadata-container" class="grid style-scope ytd-grid-video-renderer" meta-block=""><div id="metadata" class="style-scope ytd-grid-video-renderer"><div id="byline-container" class="style-scope ytd-grid-video-renderer" hidden=""><ytd-channel-name id="channel-name" class="style-scope ytd-grid-video-renderer"><!--css-build:shady--><div id="container" class="style-scope ytd-channel-name">
+  <div id="text-container" class="style-scope ytd-channel-name">
+    <yt-formatted-string id="text" title="" class="style-scope ytd-channel-name" ellipsis-truncate=""></yt-formatted-string>
+  </div>
+  <paper-tooltip fit-to-visible-bounds="" class="style-scope ytd-channel-name" role="tooltip" tabindex="-1"><!--css-build:shady-->
+    
+
+    <div id="tooltip" class="hidden style-scope paper-tooltip">
+      
+    
+  
+    </div>
+</paper-tooltip>
+</div>
+<ytd-badge-supported-renderer class="style-scope ytd-channel-name" disable-upgrade="" hidden="">
+</ytd-badge-supported-renderer>
+</ytd-channel-name></div><div id="metadata-line" class="style-scope ytd-grid-video-renderer"><span class="style-scope ytd-grid-video-renderer">47K views</span><span class="style-scope ytd-grid-video-renderer">1 day ago</span><dom-repeat strip-whitespace="" class="style-scope ytd-grid-video-renderer"><template is="dom-repeat"></template></dom-repeat></div></div><div id="additional-metadata-line" class="style-scope ytd-grid-video-renderer"><dom-repeat strip-whitespace="" class="style-scope ytd-grid-video-renderer"><template is="dom-repeat"></template></dom-repeat></div></div></div><ytd-badge-supported-renderer id="video-badges" class="style-scope ytd-grid-video-renderer" disable-upgrade="" hidden=""></ytd-badge-supported-renderer><div id="menu" class="style-scope ytd-grid-video-renderer"><ytd-menu-renderer class="style-scope ytd-grid-video-renderer"><!--css-build:shady--><div id="top-level-buttons" class="style-scope ytd-menu-renderer"></div>
+<yt-icon-button id="button" class="dropdown-trigger style-scope ytd-menu-renderer"><!--css-build:shady--><button id="button" class="style-scope yt-icon-button" aria-label="Action menu">
+  <yt-icon class="style-scope ytd-menu-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" class="style-scope yt-icon" style="pointer-events: none; display: block; width: 100%; height: 100%;"><g class="style-scope yt-icon"><path d="M12 8c1.1 0 2-.9 2-2s-.9-2-2-2-2 .9-2 2 .9 2 2 2zm0 2c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm0 6c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2z" class="style-scope yt-icon"></path></g></svg><!--css-build:shady--></yt-icon>
+</button></yt-icon-button>
+</ytd-menu-renderer></div></div><div id="buttons" class="style-scope ytd-grid-video-renderer"></div></div><div id="dismissed" class="style-scope ytd-grid-video-renderer"><div id="dismissed-content" class="style-scope ytd-grid-video-renderer"></div></div></ytd-grid-video-renderer><ytd-grid-video-renderer class="style-scope ytd-grid-renderer" lockup=""><!--css-build:shady--><div id="dismissable" class="style-scope ytd-grid-video-renderer"><ytd-thumbnail use-hovered-property="" class="style-scope ytd-grid-video-renderer"><!--css-build:shady--><a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=vpuBL1Fk6lw">
+  <yt-img-shadow ftl-eligible="" class="style-scope ytd-thumbnail no-transition" style="background-color: transparent;" loaded=""><!--css-build:shady--><img id="img" class="style-scope yt-img-shadow" alt="" width="210" src="https://i.ytimg.com/vi/vpuBL1Fk6lw/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&amp;rs=AOn4CLBQ1ETuHS6chefzqt1cdceY1w_SYQ"></yt-img-shadow>
+  
+  <div id="overlays" class="style-scope ytd-thumbnail"><ytd-thumbnail-overlay-time-status-renderer class="style-scope ytd-thumbnail" overlay-style="DEFAULT"><!--css-build:shady--><yt-icon class="style-scope ytd-thumbnail-overlay-time-status-renderer" disable-upgrade="" hidden=""></yt-icon><span class="style-scope ytd-thumbnail-overlay-time-status-renderer" aria-label="43 minutes, 7 seconds">
+  43:07
+</span></ytd-thumbnail-overlay-time-status-renderer><ytd-thumbnail-overlay-now-playing-renderer class="style-scope ytd-thumbnail"><!--css-build:shady--><span class="style-scope ytd-thumbnail-overlay-now-playing-renderer">Now playing</span>
+</ytd-thumbnail-overlay-now-playing-renderer></div>
+  <div id="mouseover-overlay" class="style-scope ytd-thumbnail"></div>
+  <div id="hover-overlays" class="style-scope ytd-thumbnail"></div>
+</a>
+</ytd-thumbnail><div id="details" class="style-scope ytd-grid-video-renderer"><div id="meta" class="style-scope ytd-grid-video-renderer"><h3 class="style-scope ytd-grid-video-renderer"><ytd-badge-supported-renderer class="style-scope ytd-grid-video-renderer" disable-upgrade="" hidden=""></ytd-badge-supported-renderer><a id="video-title" class="yt-simple-endpoint style-scope ytd-grid-video-renderer" aria-label="40 Minute Full Body Burnout Workout | TRANSCEND - Day 28 by Sydney Cummings 2 days ago 43 minutes 83,685 views" title="40 Minute Full Body Burnout Workout | TRANSCEND - Day 28" href="/watch?v=vpuBL1Fk6lw">40 Minute Full Body Burnout Workout | TRANSCEND - Day 28</a></h3><div id="metadata-container" class="grid style-scope ytd-grid-video-renderer" meta-block=""><div id="metadata" class="style-scope ytd-grid-video-renderer"><div id="byline-container" class="style-scope ytd-grid-video-renderer" hidden=""><ytd-channel-name id="channel-name" class="style-scope ytd-grid-video-renderer"><!--css-build:shady--><div id="container" class="style-scope ytd-channel-name">
+  <div id="text-container" class="style-scope ytd-channel-name">
+    <yt-formatted-string id="text" title="" class="style-scope ytd-channel-name" ellipsis-truncate=""></yt-formatted-string>
+  </div>
+  <paper-tooltip fit-to-visible-bounds="" class="style-scope ytd-channel-name" role="tooltip" tabindex="-1"><!--css-build:shady-->
+    
+
+    <div id="tooltip" class="hidden style-scope paper-tooltip">
+      
+    
+  
+    </div>
+</paper-tooltip>
+</div>
+<ytd-badge-supported-renderer class="style-scope ytd-channel-name" disable-upgrade="" hidden="">
+</ytd-badge-supported-renderer>
+</ytd-channel-name></div><div id="metadata-line" class="style-scope ytd-grid-video-renderer"><span class="style-scope ytd-grid-video-renderer">83K views</span><span class="style-scope ytd-grid-video-renderer">2 days ago</span><dom-repeat strip-whitespace="" class="style-scope ytd-grid-video-renderer"><template is="dom-repeat"></template></dom-repeat></div></div><div id="additional-metadata-line" class="style-scope ytd-grid-video-renderer"><dom-repeat strip-whitespace="" class="style-scope ytd-grid-video-renderer"><template is="dom-repeat"></template></dom-repeat></div></div></div><ytd-badge-supported-renderer id="video-badges" class="style-scope ytd-grid-video-renderer" disable-upgrade="" hidden=""></ytd-badge-supported-renderer><div id="menu" class="style-scope ytd-grid-video-renderer"><ytd-menu-renderer class="style-scope ytd-grid-video-renderer"><!--css-build:shady--><div id="top-level-buttons" class="style-scope ytd-menu-renderer"></div>
+<yt-icon-button id="button" class="dropdown-trigger style-scope ytd-menu-renderer"><!--css-build:shady--><button id="button" class="style-scope yt-icon-button" aria-label="Action menu">
+  <yt-icon class="style-scope ytd-menu-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" class="style-scope yt-icon" style="pointer-events: none; display: block; width: 100%; height: 100%;"><g class="style-scope yt-icon"><path d="M12 8c1.1 0 2-.9 2-2s-.9-2-2-2-2 .9-2 2 .9 2 2 2zm0 2c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm0 6c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2z" class="style-scope yt-icon"></path></g></svg><!--css-build:shady--></yt-icon>
+</button></yt-icon-button>
+</ytd-menu-renderer></div></div><div id="buttons" class="style-scope ytd-grid-video-renderer"></div></div><div id="dismissed" class="style-scope ytd-grid-video-renderer"><div id="dismissed-content" class="style-scope ytd-grid-video-renderer"></div></div></ytd-grid-video-renderer><ytd-grid-video-renderer class="style-scope ytd-grid-renderer" lockup=""><!--css-build:shady--><div id="dismissable" class="style-scope ytd-grid-video-renderer"><ytd-thumbnail use-hovered-property="" class="style-scope ytd-grid-video-renderer"><!--css-build:shady--><a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=hTRGweQiqD0">
+  <yt-img-shadow ftl-eligible="" class="style-scope ytd-thumbnail no-transition" style="background-color: transparent;" loaded=""><!--css-build:shady--><img id="img" class="style-scope yt-img-shadow" alt="" width="210" src="https://i.ytimg.com/vi/hTRGweQiqD0/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&amp;rs=AOn4CLBvTF9jjHUVNtKvc_K3tDMLMKvdYQ"></yt-img-shadow>
+  
+  <div id="overlays" class="style-scope ytd-thumbnail"><ytd-thumbnail-overlay-time-status-renderer class="style-scope ytd-thumbnail" overlay-style="DEFAULT"><!--css-build:shady--><yt-icon class="style-scope ytd-thumbnail-overlay-time-status-renderer" disable-upgrade="" hidden=""></yt-icon><span class="style-scope ytd-thumbnail-overlay-time-status-renderer" aria-label="24 minutes, 36 seconds">
+  24:36
+</span></ytd-thumbnail-overlay-time-status-renderer><ytd-thumbnail-overlay-now-playing-renderer class="style-scope ytd-thumbnail"><!--css-build:shady--><span class="style-scope ytd-thumbnail-overlay-now-playing-renderer">Now playing</span>
+</ytd-thumbnail-overlay-now-playing-renderer></div>
+  <div id="mouseover-overlay" class="style-scope ytd-thumbnail"></div>
+  <div id="hover-overlays" class="style-scope ytd-thumbnail"></div>
+</a>
+</ytd-thumbnail><div id="details" class="style-scope ytd-grid-video-renderer"><div id="meta" class="style-scope ytd-grid-video-renderer"><h3 class="style-scope ytd-grid-video-renderer"><ytd-badge-supported-renderer class="style-scope ytd-grid-video-renderer" disable-upgrade="" hidden=""></ytd-badge-supported-renderer><a id="video-title" class="yt-simple-endpoint style-scope ytd-grid-video-renderer" aria-label="20 Minute Relaxation Stretch | TRANSCEND - Day 27 by Sydney Cummings 3 days ago 24 minutes 21,291 views" title="20 Minute Relaxation Stretch | TRANSCEND - Day 27" href="/watch?v=hTRGweQiqD0">20 Minute Relaxation Stretch | TRANSCEND - Day 27</a></h3><div id="metadata-container" class="grid style-scope ytd-grid-video-renderer" meta-block=""><div id="metadata" class="style-scope ytd-grid-video-renderer"><div id="byline-container" class="style-scope ytd-grid-video-renderer" hidden=""><ytd-channel-name id="channel-name" class="style-scope ytd-grid-video-renderer"><!--css-build:shady--><div id="container" class="style-scope ytd-channel-name">
+  <div id="text-container" class="style-scope ytd-channel-name">
+    <yt-formatted-string id="text" title="" class="style-scope ytd-channel-name" ellipsis-truncate=""></yt-formatted-string>
+  </div>
+  <paper-tooltip fit-to-visible-bounds="" class="style-scope ytd-channel-name" role="tooltip" tabindex="-1"><!--css-build:shady-->
+    
+
+    <div id="tooltip" class="hidden style-scope paper-tooltip">
+      
+    
+  
+    </div>
+</paper-tooltip>
+</div>
+<ytd-badge-supported-renderer class="style-scope ytd-channel-name" disable-upgrade="" hidden="">
+</ytd-badge-supported-renderer>
+</ytd-channel-name></div><div id="metadata-line" class="style-scope ytd-grid-video-renderer"><span class="style-scope ytd-grid-video-renderer">21K views</span><span class="style-scope ytd-grid-video-renderer">3 days ago</span><dom-repeat strip-whitespace="" class="style-scope ytd-grid-video-renderer"><template is="dom-repeat"></template></dom-repeat></div></div><div id="additional-metadata-line" class="style-scope ytd-grid-video-renderer"><dom-repeat strip-whitespace="" class="style-scope ytd-grid-video-renderer"><template is="dom-repeat"></template></dom-repeat></div></div></div><ytd-badge-supported-renderer id="video-badges" class="style-scope ytd-grid-video-renderer" disable-upgrade="" hidden=""></ytd-badge-supported-renderer><div id="menu" class="style-scope ytd-grid-video-renderer"><ytd-menu-renderer class="style-scope ytd-grid-video-renderer"><!--css-build:shady--><div id="top-level-buttons" class="style-scope ytd-menu-renderer"></div>
+<yt-icon-button id="button" class="dropdown-trigger style-scope ytd-menu-renderer"><!--css-build:shady--><button id="button" class="style-scope yt-icon-button" aria-label="Action menu">
+  <yt-icon class="style-scope ytd-menu-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" class="style-scope yt-icon" style="pointer-events: none; display: block; width: 100%; height: 100%;"><g class="style-scope yt-icon"><path d="M12 8c1.1 0 2-.9 2-2s-.9-2-2-2-2 .9-2 2 .9 2 2 2zm0 2c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm0 6c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2z" class="style-scope yt-icon"></path></g></svg><!--css-build:shady--></yt-icon>
+</button></yt-icon-button>
+</ytd-menu-renderer></div></div><div id="buttons" class="style-scope ytd-grid-video-renderer"></div></div><div id="dismissed" class="style-scope ytd-grid-video-renderer"><div id="dismissed-content" class="style-scope ytd-grid-video-renderer"></div></div></ytd-grid-video-renderer><ytd-grid-video-renderer class="style-scope ytd-grid-renderer" lockup=""><!--css-build:shady--><div id="dismissable" class="style-scope ytd-grid-video-renderer"><ytd-thumbnail use-hovered-property="" class="style-scope ytd-grid-video-renderer"><!--css-build:shady--><a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=gWRf1l-5qgg">
+  <yt-img-shadow ftl-eligible="" class="style-scope ytd-thumbnail no-transition" style="background-color: transparent;" loaded=""><!--css-build:shady--><img id="img" class="style-scope yt-img-shadow" alt="" width="210" src="https://i.ytimg.com/vi/gWRf1l-5qgg/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&amp;rs=AOn4CLDFgKOOIwyhcoYH3AtsKsGDxDfOjg"></yt-img-shadow>
+  
+  <div id="overlays" class="style-scope ytd-thumbnail"><ytd-thumbnail-overlay-time-status-renderer class="style-scope ytd-thumbnail" overlay-style="DEFAULT"><!--css-build:shady--><yt-icon class="style-scope ytd-thumbnail-overlay-time-status-renderer" disable-upgrade="" hidden=""></yt-icon><span class="style-scope ytd-thumbnail-overlay-time-status-renderer" aria-label="49 minutes, 22 seconds">
+  49:22
+</span></ytd-thumbnail-overlay-time-status-renderer><ytd-thumbnail-overlay-now-playing-renderer class="style-scope ytd-thumbnail"><!--css-build:shady--><span class="style-scope ytd-thumbnail-overlay-now-playing-renderer">Now playing</span>
+</ytd-thumbnail-overlay-now-playing-renderer></div>
+  <div id="mouseover-overlay" class="style-scope ytd-thumbnail"></div>
+  <div id="hover-overlays" class="style-scope ytd-thumbnail"></div>
+</a>
+</ytd-thumbnail><div id="details" class="style-scope ytd-grid-video-renderer"><div id="meta" class="style-scope ytd-grid-video-renderer"><h3 class="style-scope ytd-grid-video-renderer"><ytd-badge-supported-renderer class="style-scope ytd-grid-video-renderer" disable-upgrade="" hidden=""></ytd-badge-supported-renderer><a id="video-title" class="yt-simple-endpoint style-scope ytd-grid-video-renderer" aria-label="45 Minute Glutes &amp; Cardio AMRAP Workout | TRANSCEND - Day 26 by Sydney Cummings 4 days ago 49 minutes 61,159 views" title="45 Minute Glutes &amp; Cardio AMRAP Workout | TRANSCEND - Day 26" href="/watch?v=gWRf1l-5qgg">45 Minute Glutes &amp; Cardio AMRAP Workout | TRANSCEND - Day 26</a></h3><div id="metadata-container" class="grid style-scope ytd-grid-video-renderer" meta-block=""><div id="metadata" class="style-scope ytd-grid-video-renderer"><div id="byline-container" class="style-scope ytd-grid-video-renderer" hidden=""><ytd-channel-name id="channel-name" class="style-scope ytd-grid-video-renderer"><!--css-build:shady--><div id="container" class="style-scope ytd-channel-name">
+  <div id="text-container" class="style-scope ytd-channel-name">
+    <yt-formatted-string id="text" title="" class="style-scope ytd-channel-name" ellipsis-truncate=""></yt-formatted-string>
+  </div>
+  <paper-tooltip fit-to-visible-bounds="" class="style-scope ytd-channel-name" role="tooltip" tabindex="-1"><!--css-build:shady-->
+    
+
+    <div id="tooltip" class="hidden style-scope paper-tooltip">
+      
+    
+  
+    </div>
+</paper-tooltip>
+</div>
+<ytd-badge-supported-renderer class="style-scope ytd-channel-name" disable-upgrade="" hidden="">
+</ytd-badge-supported-renderer>
+</ytd-channel-name></div><div id="metadata-line" class="style-scope ytd-grid-video-renderer"><span class="style-scope ytd-grid-video-renderer">61K views</span><span class="style-scope ytd-grid-video-renderer">4 days ago</span><dom-repeat strip-whitespace="" class="style-scope ytd-grid-video-renderer"><template is="dom-repeat"></template></dom-repeat></div></div><div id="additional-metadata-line" class="style-scope ytd-grid-video-renderer"><dom-repeat strip-whitespace="" class="style-scope ytd-grid-video-renderer"><template is="dom-repeat"></template></dom-repeat></div></div></div><ytd-badge-supported-renderer id="video-badges" class="style-scope ytd-grid-video-renderer" disable-upgrade="" hidden=""></ytd-badge-supported-renderer><div id="menu" class="style-scope ytd-grid-video-renderer"><ytd-menu-renderer class="style-scope ytd-grid-video-renderer"><!--css-build:shady--><div id="top-level-buttons" class="style-scope ytd-menu-renderer"></div>
+<yt-icon-button id="button" class="dropdown-trigger style-scope ytd-menu-renderer"><!--css-build:shady--><button id="button" class="style-scope yt-icon-button" aria-label="Action menu">
+  <yt-icon class="style-scope ytd-menu-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" class="style-scope yt-icon" style="pointer-events: none; display: block; width: 100%; height: 100%;"><g class="style-scope yt-icon"><path d="M12 8c1.1 0 2-.9 2-2s-.9-2-2-2-2 .9-2 2 .9 2 2 2zm0 2c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm0 6c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2z" class="style-scope yt-icon"></path></g></svg><!--css-build:shady--></yt-icon>
+</button></yt-icon-button>
+</ytd-menu-renderer></div></div><div id="buttons" class="style-scope ytd-grid-video-renderer"></div></div><div id="dismissed" class="style-scope ytd-grid-video-renderer"><div id="dismissed-content" class="style-scope ytd-grid-video-renderer"></div></div></ytd-grid-video-renderer><ytd-grid-video-renderer class="style-scope ytd-grid-renderer" lockup=""><!--css-build:shady--><div id="dismissable" class="style-scope ytd-grid-video-renderer"><ytd-thumbnail use-hovered-property="" class="style-scope ytd-grid-video-renderer"><!--css-build:shady--><a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=-4lg8ODUKqk">
+  <yt-img-shadow ftl-eligible="" class="style-scope ytd-thumbnail no-transition" style="background-color: transparent;" loaded=""><!--css-build:shady--><img id="img" class="style-scope yt-img-shadow" alt="" width="210" src="https://i.ytimg.com/vi/-4lg8ODUKqk/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&amp;rs=AOn4CLC8vT3RVYR48jAknAq_ez8CmgDAiA"></yt-img-shadow>
+  
+  <div id="overlays" class="style-scope ytd-thumbnail"><ytd-thumbnail-overlay-time-status-renderer class="style-scope ytd-thumbnail" overlay-style="DEFAULT"><!--css-build:shady--><yt-icon class="style-scope ytd-thumbnail-overlay-time-status-renderer" disable-upgrade="" hidden=""></yt-icon><span class="style-scope ytd-thumbnail-overlay-time-status-renderer" aria-label="33 minutes, 50 seconds">
+  33:50
+</span></ytd-thumbnail-overlay-time-status-renderer><ytd-thumbnail-overlay-now-playing-renderer class="style-scope ytd-thumbnail"><!--css-build:shady--><span class="style-scope ytd-thumbnail-overlay-now-playing-renderer">Now playing</span>
+</ytd-thumbnail-overlay-now-playing-renderer></div>
+  <div id="mouseover-overlay" class="style-scope ytd-thumbnail"></div>
+  <div id="hover-overlays" class="style-scope ytd-thumbnail"></div>
+</a>
+</ytd-thumbnail><div id="details" class="style-scope ytd-grid-video-renderer"><div id="meta" class="style-scope ytd-grid-video-renderer"><h3 class="style-scope ytd-grid-video-renderer"><ytd-badge-supported-renderer class="style-scope ytd-grid-video-renderer" disable-upgrade="" hidden=""></ytd-badge-supported-renderer><a id="video-title" class="yt-simple-endpoint style-scope ytd-grid-video-renderer" aria-label="30 Minute Upper Body Pull AMRAP Workout | TRANSCEND - Day 25 by Sydney Cummings 5 days ago 33 minutes 45,840 views" title="30 Minute Upper Body Pull AMRAP Workout | TRANSCEND - Day 25" href="/watch?v=-4lg8ODUKqk">30 Minute Upper Body Pull AMRAP Workout | TRANSCEND - Day 25</a></h3><div id="metadata-container" class="grid style-scope ytd-grid-video-renderer" meta-block=""><div id="metadata" class="style-scope ytd-grid-video-renderer"><div id="byline-container" class="style-scope ytd-grid-video-renderer" hidden=""><ytd-channel-name id="channel-name" class="style-scope ytd-grid-video-renderer"><!--css-build:shady--><div id="container" class="style-scope ytd-channel-name">
+  <div id="text-container" class="style-scope ytd-channel-name">
+    <yt-formatted-string id="text" title="" class="style-scope ytd-channel-name" ellipsis-truncate=""></yt-formatted-string>
+  </div>
+  <paper-tooltip fit-to-visible-bounds="" class="style-scope ytd-channel-name" role="tooltip" tabindex="-1"><!--css-build:shady-->
+    
+
+    <div id="tooltip" class="hidden style-scope paper-tooltip">
+      
+    
+  
+    </div>
+</paper-tooltip>
+</div>
+<ytd-badge-supported-renderer class="style-scope ytd-channel-name" disable-upgrade="" hidden="">
+</ytd-badge-supported-renderer>
+</ytd-channel-name></div><div id="metadata-line" class="style-scope ytd-grid-video-renderer"><span class="style-scope ytd-grid-video-renderer">45K views</span><span class="style-scope ytd-grid-video-renderer">5 days ago</span><dom-repeat strip-whitespace="" class="style-scope ytd-grid-video-renderer"><template is="dom-repeat"></template></dom-repeat></div></div><div id="additional-metadata-line" class="style-scope ytd-grid-video-renderer"><dom-repeat strip-whitespace="" class="style-scope ytd-grid-video-renderer"><template is="dom-repeat"></template></dom-repeat></div></div></div><ytd-badge-supported-renderer id="video-badges" class="style-scope ytd-grid-video-renderer" disable-upgrade="" hidden=""></ytd-badge-supported-renderer><div id="menu" class="style-scope ytd-grid-video-renderer"><ytd-menu-renderer class="style-scope ytd-grid-video-renderer"><!--css-build:shady--><div id="top-level-buttons" class="style-scope ytd-menu-renderer"></div>
+<yt-icon-button id="button" class="dropdown-trigger style-scope ytd-menu-renderer"><!--css-build:shady--><button id="button" class="style-scope yt-icon-button" aria-label="Action menu">
+  <yt-icon class="style-scope ytd-menu-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" class="style-scope yt-icon" style="pointer-events: none; display: block; width: 100%; height: 100%;"><g class="style-scope yt-icon"><path d="M12 8c1.1 0 2-.9 2-2s-.9-2-2-2-2 .9-2 2 .9 2 2 2zm0 2c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm0 6c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2z" class="style-scope yt-icon"></path></g></svg><!--css-build:shady--></yt-icon>
+</button></yt-icon-button>
+</ytd-menu-renderer></div></div><div id="buttons" class="style-scope ytd-grid-video-renderer"></div></div><div id="dismissed" class="style-scope ytd-grid-video-renderer"><div id="dismissed-content" class="style-scope ytd-grid-video-renderer"></div></div></ytd-grid-video-renderer><ytd-grid-video-renderer class="style-scope ytd-grid-renderer" lockup=""><!--css-build:shady--><div id="dismissable" class="style-scope ytd-grid-video-renderer"><ytd-thumbnail use-hovered-property="" class="style-scope ytd-grid-video-renderer"><!--css-build:shady--><a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=hqLc5F4jsks">
+  <yt-img-shadow ftl-eligible="" class="style-scope ytd-thumbnail no-transition" style="background-color: transparent;" loaded=""><!--css-build:shady--><img id="img" class="style-scope yt-img-shadow" alt="" width="210" src="https://i.ytimg.com/vi/hqLc5F4jsks/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&amp;rs=AOn4CLBA3MHERsrilFyqXMScuplMjmibcA"></yt-img-shadow>
+  
+  <div id="overlays" class="style-scope ytd-thumbnail"><ytd-thumbnail-overlay-time-status-renderer class="style-scope ytd-thumbnail" overlay-style="DEFAULT"><!--css-build:shady--><yt-icon class="style-scope ytd-thumbnail-overlay-time-status-renderer" disable-upgrade="" hidden=""></yt-icon><span class="style-scope ytd-thumbnail-overlay-time-status-renderer" aria-label="46 minutes, 40 seconds">
+  46:40
+</span></ytd-thumbnail-overlay-time-status-renderer><ytd-thumbnail-overlay-now-playing-renderer class="style-scope ytd-thumbnail"><!--css-build:shady--><span class="style-scope ytd-thumbnail-overlay-now-playing-renderer">Now playing</span>
+</ytd-thumbnail-overlay-now-playing-renderer></div>
+  <div id="mouseover-overlay" class="style-scope ytd-thumbnail"></div>
+  <div id="hover-overlays" class="style-scope ytd-thumbnail"></div>
+</a>
+</ytd-thumbnail><div id="details" class="style-scope ytd-grid-video-renderer"><div id="meta" class="style-scope ytd-grid-video-renderer"><h3 class="style-scope ytd-grid-video-renderer"><ytd-badge-supported-renderer class="style-scope ytd-grid-video-renderer" disable-upgrade="" hidden=""></ytd-badge-supported-renderer><a id="video-title" class="yt-simple-endpoint style-scope ytd-grid-video-renderer" aria-label="45 Minute Christmas Eve Cardio and Abs Workout | TRANSCEND - Day 24 by Sydney Cummings 6 days ago 46 minutes 85,831 views" title="45 Minute Christmas Eve Cardio and Abs Workout | TRANSCEND - Day 24" href="/watch?v=hqLc5F4jsks">45 Minute Christmas Eve Cardio and Abs Workout | TRANSCEND - Day 24</a></h3><div id="metadata-container" class="grid style-scope ytd-grid-video-renderer" meta-block=""><div id="metadata" class="style-scope ytd-grid-video-renderer"><div id="byline-container" class="style-scope ytd-grid-video-renderer" hidden=""><ytd-channel-name id="channel-name" class="style-scope ytd-grid-video-renderer"><!--css-build:shady--><div id="container" class="style-scope ytd-channel-name">
+  <div id="text-container" class="style-scope ytd-channel-name">
+    <yt-formatted-string id="text" title="" class="style-scope ytd-channel-name" ellipsis-truncate=""></yt-formatted-string>
+  </div>
+  <paper-tooltip fit-to-visible-bounds="" class="style-scope ytd-channel-name" role="tooltip" tabindex="-1"><!--css-build:shady-->
+    
+
+    <div id="tooltip" class="hidden style-scope paper-tooltip">
+      
+    
+  
+    </div>
+</paper-tooltip>
+</div>
+<ytd-badge-supported-renderer class="style-scope ytd-channel-name" disable-upgrade="" hidden="">
+</ytd-badge-supported-renderer>
+</ytd-channel-name></div><div id="metadata-line" class="style-scope ytd-grid-video-renderer"><span class="style-scope ytd-grid-video-renderer">85K views</span><span class="style-scope ytd-grid-video-renderer">6 days ago</span><dom-repeat strip-whitespace="" class="style-scope ytd-grid-video-renderer"><template is="dom-repeat"></template></dom-repeat></div></div><div id="additional-metadata-line" class="style-scope ytd-grid-video-renderer"><dom-repeat strip-whitespace="" class="style-scope ytd-grid-video-renderer"><template is="dom-repeat"></template></dom-repeat></div></div></div><ytd-badge-supported-renderer id="video-badges" class="style-scope ytd-grid-video-renderer" disable-upgrade="" hidden=""></ytd-badge-supported-renderer><div id="menu" class="style-scope ytd-grid-video-renderer"><ytd-menu-renderer class="style-scope ytd-grid-video-renderer"><!--css-build:shady--><div id="top-level-buttons" class="style-scope ytd-menu-renderer"></div>
+<yt-icon-button id="button" class="dropdown-trigger style-scope ytd-menu-renderer"><!--css-build:shady--><button id="button" class="style-scope yt-icon-button" aria-label="Action menu">
+  <yt-icon class="style-scope ytd-menu-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" class="style-scope yt-icon" style="pointer-events: none; display: block; width: 100%; height: 100%;"><g class="style-scope yt-icon"><path d="M12 8c1.1 0 2-.9 2-2s-.9-2-2-2-2 .9-2 2 .9 2 2 2zm0 2c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm0 6c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2z" class="style-scope yt-icon"></path></g></svg><!--css-build:shady--></yt-icon>
+</button></yt-icon-button>
+</ytd-menu-renderer></div></div><div id="buttons" class="style-scope ytd-grid-video-renderer"></div></div><div id="dismissed" class="style-scope ytd-grid-video-renderer"><div id="dismissed-content" class="style-scope ytd-grid-video-renderer"></div></div></ytd-grid-video-renderer><ytd-grid-video-renderer class="style-scope ytd-grid-renderer" lockup=""><!--css-build:shady--><div id="dismissable" class="style-scope ytd-grid-video-renderer"><ytd-thumbnail use-hovered-property="" class="style-scope ytd-grid-video-renderer"><!--css-build:shady--><a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=qp5hg4laH6Q">
+  <yt-img-shadow ftl-eligible="" class="style-scope ytd-thumbnail no-transition" style="background-color: transparent;" loaded=""><!--css-build:shady--><img id="img" class="style-scope yt-img-shadow" alt="" width="210" src="https://i.ytimg.com/vi/qp5hg4laH6Q/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&amp;rs=AOn4CLB_qjHQNf-3M3SWv5YgQUFQg57fMw"></yt-img-shadow>
+  
+  <div id="overlays" class="style-scope ytd-thumbnail"><ytd-thumbnail-overlay-time-status-renderer class="style-scope ytd-thumbnail" overlay-style="DEFAULT"><!--css-build:shady--><yt-icon class="style-scope ytd-thumbnail-overlay-time-status-renderer" disable-upgrade="" hidden=""></yt-icon><span class="style-scope ytd-thumbnail-overlay-time-status-renderer" aria-label="49 minutes, 2 seconds">
+  49:02
+</span></ytd-thumbnail-overlay-time-status-renderer><ytd-thumbnail-overlay-now-playing-renderer class="style-scope ytd-thumbnail"><!--css-build:shady--><span class="style-scope ytd-thumbnail-overlay-now-playing-renderer">Now playing</span>
+</ytd-thumbnail-overlay-now-playing-renderer></div>
+  <div id="mouseover-overlay" class="style-scope ytd-thumbnail"></div>
+  <div id="hover-overlays" class="style-scope ytd-thumbnail"></div>
+</a>
+</ytd-thumbnail><div id="details" class="style-scope ytd-grid-video-renderer"><div id="meta" class="style-scope ytd-grid-video-renderer"><h3 class="style-scope ytd-grid-video-renderer"><ytd-badge-supported-renderer class="style-scope ytd-grid-video-renderer" disable-upgrade="" hidden=""></ytd-badge-supported-renderer><a id="video-title" class="yt-simple-endpoint style-scope ytd-grid-video-renderer" aria-label="45 Minute Chest &amp; Triceps Push AMRAP Workout | TRANSCEND - Day 23 by Sydney Cummings 1 week ago 49 minutes 44,918 views" title="45 Minute Chest &amp; Triceps Push AMRAP Workout | TRANSCEND - Day 23" href="/watch?v=qp5hg4laH6Q">45 Minute Chest &amp; Triceps Push AMRAP Workout | TRANSCEND - Day 23</a></h3><div id="metadata-container" class="grid style-scope ytd-grid-video-renderer" meta-block=""><div id="metadata" class="style-scope ytd-grid-video-renderer"><div id="byline-container" class="style-scope ytd-grid-video-renderer" hidden=""><ytd-channel-name id="channel-name" class="style-scope ytd-grid-video-renderer"><!--css-build:shady--><div id="container" class="style-scope ytd-channel-name">
+  <div id="text-container" class="style-scope ytd-channel-name">
+    <yt-formatted-string id="text" title="" class="style-scope ytd-channel-name" ellipsis-truncate=""></yt-formatted-string>
+  </div>
+  <paper-tooltip fit-to-visible-bounds="" class="style-scope ytd-channel-name" role="tooltip" tabindex="-1"><!--css-build:shady-->
+    
+
+    <div id="tooltip" class="hidden style-scope paper-tooltip">
+      
+    
+  
+    </div>
+</paper-tooltip>
+</div>
+<ytd-badge-supported-renderer class="style-scope ytd-channel-name" disable-upgrade="" hidden="">
+</ytd-badge-supported-renderer>
+</ytd-channel-name></div><div id="metadata-line" class="style-scope ytd-grid-video-renderer"><span class="style-scope ytd-grid-video-renderer">44K views</span><span class="style-scope ytd-grid-video-renderer">1 week ago</span><dom-repeat strip-whitespace="" class="style-scope ytd-grid-video-renderer"><template is="dom-repeat"></template></dom-repeat></div></div><div id="additional-metadata-line" class="style-scope ytd-grid-video-renderer"><dom-repeat strip-whitespace="" class="style-scope ytd-grid-video-renderer"><template is="dom-repeat"></template></dom-repeat></div></div></div><ytd-badge-supported-renderer id="video-badges" class="style-scope ytd-grid-video-renderer" disable-upgrade="" hidden=""></ytd-badge-supported-renderer><div id="menu" class="style-scope ytd-grid-video-renderer"><ytd-menu-renderer class="style-scope ytd-grid-video-renderer"><!--css-build:shady--><div id="top-level-buttons" class="style-scope ytd-menu-renderer"></div>
+<yt-icon-button id="button" class="dropdown-trigger style-scope ytd-menu-renderer"><!--css-build:shady--><button id="button" class="style-scope yt-icon-button" aria-label="Action menu">
+  <yt-icon class="style-scope ytd-menu-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" class="style-scope yt-icon" style="pointer-events: none; display: block; width: 100%; height: 100%;"><g class="style-scope yt-icon"><path d="M12 8c1.1 0 2-.9 2-2s-.9-2-2-2-2 .9-2 2 .9 2 2 2zm0 2c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm0 6c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2z" class="style-scope yt-icon"></path></g></svg><!--css-build:shady--></yt-icon>
+</button></yt-icon-button>
+</ytd-menu-renderer></div></div><div id="buttons" class="style-scope ytd-grid-video-renderer"></div></div><div id="dismissed" class="style-scope ytd-grid-video-renderer"><div id="dismissed-content" class="style-scope ytd-grid-video-renderer"></div></div></ytd-grid-video-renderer><ytd-grid-video-renderer class="style-scope ytd-grid-renderer" lockup=""><!--css-build:shady--><div id="dismissable" class="style-scope ytd-grid-video-renderer"><ytd-thumbnail use-hovered-property="" class="style-scope ytd-grid-video-renderer"><!--css-build:shady--><a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=CuBng8VZjcA">
+  <yt-img-shadow ftl-eligible="" class="style-scope ytd-thumbnail no-transition" style="background-color: transparent;" loaded=""><!--css-build:shady--><img id="img" class="style-scope yt-img-shadow" alt="" width="210" src="https://i.ytimg.com/vi/CuBng8VZjcA/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&amp;rs=AOn4CLDkvrddqPuttrNtSQieiKs-wFFeJw"></yt-img-shadow>
+  
+  <div id="overlays" class="style-scope ytd-thumbnail"><ytd-thumbnail-overlay-time-status-renderer class="style-scope ytd-thumbnail" overlay-style="DEFAULT"><!--css-build:shady--><yt-icon class="style-scope ytd-thumbnail-overlay-time-status-renderer" disable-upgrade="" hidden=""></yt-icon><span class="style-scope ytd-thumbnail-overlay-time-status-renderer" aria-label="49 minutes, 32 seconds">
+  49:32
+</span></ytd-thumbnail-overlay-time-status-renderer><ytd-thumbnail-overlay-now-playing-renderer class="style-scope ytd-thumbnail"><!--css-build:shady--><span class="style-scope ytd-thumbnail-overlay-now-playing-renderer">Now playing</span>
+</ytd-thumbnail-overlay-now-playing-renderer></div>
+  <div id="mouseover-overlay" class="style-scope ytd-thumbnail"></div>
+  <div id="hover-overlays" class="style-scope ytd-thumbnail"></div>
+</a>
+</ytd-thumbnail><div id="details" class="style-scope ytd-grid-video-renderer"><div id="meta" class="style-scope ytd-grid-video-renderer"><h3 class="style-scope ytd-grid-video-renderer"><ytd-badge-supported-renderer class="style-scope ytd-grid-video-renderer" disable-upgrade="" hidden=""></ytd-badge-supported-renderer><a id="video-title" class="yt-simple-endpoint style-scope ytd-grid-video-renderer" aria-label="45 Minute Legs Level 4 Workout | TRANSCEND - Day 22 by Sydney Cummings 1 week ago 49 minutes 59,765 views" title="45 Minute Legs Level 4 Workout | TRANSCEND - Day 22" href="/watch?v=CuBng8VZjcA">45 Minute Legs Level 4 Workout | TRANSCEND - Day 22</a></h3><div id="metadata-container" class="grid style-scope ytd-grid-video-renderer" meta-block=""><div id="metadata" class="style-scope ytd-grid-video-renderer"><div id="byline-container" class="style-scope ytd-grid-video-renderer" hidden=""><ytd-channel-name id="channel-name" class="style-scope ytd-grid-video-renderer"><!--css-build:shady--><div id="container" class="style-scope ytd-channel-name">
+  <div id="text-container" class="style-scope ytd-channel-name">
+    <yt-formatted-string id="text" title="" class="style-scope ytd-channel-name" ellipsis-truncate=""></yt-formatted-string>
+  </div>
+  <paper-tooltip fit-to-visible-bounds="" class="style-scope ytd-channel-name" role="tooltip" tabindex="-1"><!--css-build:shady-->
+    
+
+    <div id="tooltip" class="hidden style-scope paper-tooltip">
+      
+    
+  
+    </div>
+</paper-tooltip>
+</div>
+<ytd-badge-supported-renderer class="style-scope ytd-channel-name" disable-upgrade="" hidden="">
+</ytd-badge-supported-renderer>
+</ytd-channel-name></div><div id="metadata-line" class="style-scope ytd-grid-video-renderer"><span class="style-scope ytd-grid-video-renderer">59K views</span><span class="style-scope ytd-grid-video-renderer">1 week ago</span><dom-repeat strip-whitespace="" class="style-scope ytd-grid-video-renderer"><template is="dom-repeat"></template></dom-repeat></div></div><div id="additional-metadata-line" class="style-scope ytd-grid-video-renderer"><dom-repeat strip-whitespace="" class="style-scope ytd-grid-video-renderer"><template is="dom-repeat"></template></dom-repeat></div></div></div><ytd-badge-supported-renderer id="video-badges" class="style-scope ytd-grid-video-renderer" disable-upgrade="" hidden=""></ytd-badge-supported-renderer><div id="menu" class="style-scope ytd-grid-video-renderer"><ytd-menu-renderer class="style-scope ytd-grid-video-renderer"><!--css-build:shady--><div id="top-level-buttons" class="style-scope ytd-menu-renderer"></div>
+<yt-icon-button id="button" class="dropdown-trigger style-scope ytd-menu-renderer"><!--css-build:shady--><button id="button" class="style-scope yt-icon-button" aria-label="Action menu">
+  <yt-icon class="style-scope ytd-menu-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" class="style-scope yt-icon" style="pointer-events: none; display: block; width: 100%; height: 100%;"><g class="style-scope yt-icon"><path d="M12 8c1.1 0 2-.9 2-2s-.9-2-2-2-2 .9-2 2 .9 2 2 2zm0 2c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm0 6c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2z" class="style-scope yt-icon"></path></g></svg><!--css-build:shady--></yt-icon>
+</button></yt-icon-button>
+</ytd-menu-renderer></div></div><div id="buttons" class="style-scope ytd-grid-video-renderer"></div></div><div id="dismissed" class="style-scope ytd-grid-video-renderer"><div id="dismissed-content" class="style-scope ytd-grid-video-renderer"></div></div></ytd-grid-video-renderer><ytd-grid-video-renderer class="style-scope ytd-grid-renderer" lockup=""><!--css-build:shady--><div id="dismissable" class="style-scope ytd-grid-video-renderer"><ytd-thumbnail use-hovered-property="" class="style-scope ytd-grid-video-renderer"><!--css-build:shady--><a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=7jxffmpf9ME">
+  <yt-img-shadow ftl-eligible="" class="style-scope ytd-thumbnail no-transition" style="background-color: transparent;" loaded=""><!--css-build:shady--><img id="img" class="style-scope yt-img-shadow" alt="" width="210" src="https://i.ytimg.com/vi/7jxffmpf9ME/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&amp;rs=AOn4CLD7ckLzWN2BlFTThtx5EfRlzlX_dQ"></yt-img-shadow>
+  
+  <div id="overlays" class="style-scope ytd-thumbnail"><ytd-thumbnail-overlay-time-status-renderer class="style-scope ytd-thumbnail" overlay-style="DEFAULT"><!--css-build:shady--><yt-icon class="style-scope ytd-thumbnail-overlay-time-status-renderer" disable-upgrade="" hidden=""></yt-icon><span class="style-scope ytd-thumbnail-overlay-time-status-renderer" aria-label="34 minutes, 41 seconds">
+  34:41
+</span></ytd-thumbnail-overlay-time-status-renderer><ytd-thumbnail-overlay-now-playing-renderer class="style-scope ytd-thumbnail"><!--css-build:shady--><span class="style-scope ytd-thumbnail-overlay-now-playing-renderer">Now playing</span>
+</ytd-thumbnail-overlay-now-playing-renderer></div>
+  <div id="mouseover-overlay" class="style-scope ytd-thumbnail"></div>
+  <div id="hover-overlays" class="style-scope ytd-thumbnail"></div>
+</a>
+</ytd-thumbnail><div id="details" class="style-scope ytd-grid-video-renderer"><div id="meta" class="style-scope ytd-grid-video-renderer"><h3 class="style-scope ytd-grid-video-renderer"><ytd-badge-supported-renderer class="style-scope ytd-grid-video-renderer" disable-upgrade="" hidden=""></ytd-badge-supported-renderer><a id="video-title" class="yt-simple-endpoint style-scope ytd-grid-video-renderer" aria-label="30 Minute Full Body Tabata Workout | TRANSCEND - Day 21 by Sydney Cummings 1 week ago 34 minutes 132,832 views" title="30 Minute Full Body Tabata Workout | TRANSCEND - Day 21" href="/watch?v=7jxffmpf9ME">30 Minute Full Body Tabata Workout | TRANSCEND - Day 21</a></h3><div id="metadata-container" class="grid style-scope ytd-grid-video-renderer" meta-block=""><div id="metadata" class="style-scope ytd-grid-video-renderer"><div id="byline-container" class="style-scope ytd-grid-video-renderer" hidden=""><ytd-channel-name id="channel-name" class="style-scope ytd-grid-video-renderer"><!--css-build:shady--><div id="container" class="style-scope ytd-channel-name">
+  <div id="text-container" class="style-scope ytd-channel-name">
+    <yt-formatted-string id="text" title="" class="style-scope ytd-channel-name" ellipsis-truncate=""></yt-formatted-string>
+  </div>
+  <paper-tooltip fit-to-visible-bounds="" class="style-scope ytd-channel-name" role="tooltip" tabindex="-1"><!--css-build:shady-->
+    
+
+    <div id="tooltip" class="hidden style-scope paper-tooltip">
+      
+    
+  
+    </div>
+</paper-tooltip>
+</div>
+<ytd-badge-supported-renderer class="style-scope ytd-channel-name" disable-upgrade="" hidden="">
+</ytd-badge-supported-renderer>
+</ytd-channel-name></div><div id="metadata-line" class="style-scope ytd-grid-video-renderer"><span class="style-scope ytd-grid-video-renderer">132K views</span><span class="style-scope ytd-grid-video-renderer">1 week ago</span><dom-repeat strip-whitespace="" class="style-scope ytd-grid-video-renderer"><template is="dom-repeat"></template></dom-repeat></div></div><div id="additional-metadata-line" class="style-scope ytd-grid-video-renderer"><dom-repeat strip-whitespace="" class="style-scope ytd-grid-video-renderer"><template is="dom-repeat"></template></dom-repeat></div></div></div><ytd-badge-supported-renderer id="video-badges" class="style-scope ytd-grid-video-renderer" disable-upgrade="" hidden=""></ytd-badge-supported-renderer><div id="menu" class="style-scope ytd-grid-video-renderer"><ytd-menu-renderer class="style-scope ytd-grid-video-renderer"><!--css-build:shady--><div id="top-level-buttons" class="style-scope ytd-menu-renderer"></div>
+<yt-icon-button id="button" class="dropdown-trigger style-scope ytd-menu-renderer"><!--css-build:shady--><button id="button" class="style-scope yt-icon-button" aria-label="Action menu">
+  <yt-icon class="style-scope ytd-menu-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" class="style-scope yt-icon" style="pointer-events: none; display: block; width: 100%; height: 100%;"><g class="style-scope yt-icon"><path d="M12 8c1.1 0 2-.9 2-2s-.9-2-2-2-2 .9-2 2 .9 2 2 2zm0 2c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm0 6c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2z" class="style-scope yt-icon"></path></g></svg><!--css-build:shady--></yt-icon>
+</button></yt-icon-button>
+</ytd-menu-renderer></div></div><div id="buttons" class="style-scope ytd-grid-video-renderer"></div></div><div id="dismissed" class="style-scope ytd-grid-video-renderer"><div id="dismissed-content" class="style-scope ytd-grid-video-renderer"></div></div></ytd-grid-video-renderer><ytd-grid-video-renderer class="style-scope ytd-grid-renderer" lockup=""><!--css-build:shady--><div id="dismissable" class="style-scope ytd-grid-video-renderer"><ytd-thumbnail use-hovered-property="" class="style-scope ytd-grid-video-renderer"><!--css-build:shady--><a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=2nfNUiNHAiA">
+  <yt-img-shadow ftl-eligible="" class="style-scope ytd-thumbnail no-transition" style="background-color: transparent;" loaded=""><!--css-build:shady--><img id="img" class="style-scope yt-img-shadow" alt="" width="210" src="https://i.ytimg.com/vi/2nfNUiNHAiA/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&amp;rs=AOn4CLBK4stEXlyVmRU95uJf589rqOAyIw"></yt-img-shadow>
+  
+  <div id="overlays" class="style-scope ytd-thumbnail"><ytd-thumbnail-overlay-time-status-renderer class="style-scope ytd-thumbnail" overlay-style="DEFAULT"><!--css-build:shady--><yt-icon class="style-scope ytd-thumbnail-overlay-time-status-renderer" disable-upgrade="" hidden=""></yt-icon><span class="style-scope ytd-thumbnail-overlay-time-status-renderer" aria-label="21 minutes, 47 seconds">
+  21:47
+</span></ytd-thumbnail-overlay-time-status-renderer><ytd-thumbnail-overlay-now-playing-renderer class="style-scope ytd-thumbnail"><!--css-build:shady--><span class="style-scope ytd-thumbnail-overlay-now-playing-renderer">Now playing</span>
+</ytd-thumbnail-overlay-now-playing-renderer></div>
+  <div id="mouseover-overlay" class="style-scope ytd-thumbnail"></div>
+  <div id="hover-overlays" class="style-scope ytd-thumbnail"></div>
+</a>
+</ytd-thumbnail><div id="details" class="style-scope ytd-grid-video-renderer"><div id="meta" class="style-scope ytd-grid-video-renderer"><h3 class="style-scope ytd-grid-video-renderer"><ytd-badge-supported-renderer class="style-scope ytd-grid-video-renderer" disable-upgrade="" hidden=""></ytd-badge-supported-renderer><a id="video-title" class="yt-simple-endpoint style-scope ytd-grid-video-renderer" aria-label="20 Minute Stretch for Hips and Back | TRANSCEND - Day 20 by Sydney Cummings 1 week ago 21 minutes 26,466 views" title="20 Minute Stretch for Hips and Back | TRANSCEND - Day 20" href="/watch?v=2nfNUiNHAiA">20 Minute Stretch for Hips and Back | TRANSCEND - Day 20</a></h3><div id="metadata-container" class="grid style-scope ytd-grid-video-renderer" meta-block=""><div id="metadata" class="style-scope ytd-grid-video-renderer"><div id="byline-container" class="style-scope ytd-grid-video-renderer" hidden=""><ytd-channel-name id="channel-name" class="style-scope ytd-grid-video-renderer"><!--css-build:shady--><div id="container" class="style-scope ytd-channel-name">
+  <div id="text-container" class="style-scope ytd-channel-name">
+    <yt-formatted-string id="text" title="" class="style-scope ytd-channel-name" ellipsis-truncate=""></yt-formatted-string>
+  </div>
+  <paper-tooltip fit-to-visible-bounds="" class="style-scope ytd-channel-name" role="tooltip" tabindex="-1"><!--css-build:shady-->
+    
+
+    <div id="tooltip" class="hidden style-scope paper-tooltip">
+      
+    
+  
+    </div>
+</paper-tooltip>
+</div>
+<ytd-badge-supported-renderer class="style-scope ytd-channel-name" disable-upgrade="" hidden="">
+</ytd-badge-supported-renderer>
+</ytd-channel-name></div><div id="metadata-line" class="style-scope ytd-grid-video-renderer"><span class="style-scope ytd-grid-video-renderer">26K views</span><span class="style-scope ytd-grid-video-renderer">1 week ago</span><dom-repeat strip-whitespace="" class="style-scope ytd-grid-video-renderer"><template is="dom-repeat"></template></dom-repeat></div></div><div id="additional-metadata-line" class="style-scope ytd-grid-video-renderer"><dom-repeat strip-whitespace="" class="style-scope ytd-grid-video-renderer"><template is="dom-repeat"></template></dom-repeat></div></div></div><ytd-badge-supported-renderer id="video-badges" class="style-scope ytd-grid-video-renderer" disable-upgrade="" hidden=""></ytd-badge-supported-renderer><div id="menu" class="style-scope ytd-grid-video-renderer"><ytd-menu-renderer class="style-scope ytd-grid-video-renderer"><!--css-build:shady--><div id="top-level-buttons" class="style-scope ytd-menu-renderer"></div>
+<yt-icon-button id="button" class="dropdown-trigger style-scope ytd-menu-renderer"><!--css-build:shady--><button id="button" class="style-scope yt-icon-button" aria-label="Action menu">
+  <yt-icon class="style-scope ytd-menu-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" class="style-scope yt-icon" style="pointer-events: none; display: block; width: 100%; height: 100%;"><g class="style-scope yt-icon"><path d="M12 8c1.1 0 2-.9 2-2s-.9-2-2-2-2 .9-2 2 .9 2 2 2zm0 2c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm0 6c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2z" class="style-scope yt-icon"></path></g></svg><!--css-build:shady--></yt-icon>
+</button></yt-icon-button>
+</ytd-menu-renderer></div></div><div id="buttons" class="style-scope ytd-grid-video-renderer"></div></div><div id="dismissed" class="style-scope ytd-grid-video-renderer"><div id="dismissed-content" class="style-scope ytd-grid-video-renderer"></div></div></ytd-grid-video-renderer><ytd-grid-video-renderer class="style-scope ytd-grid-renderer" lockup=""><!--css-build:shady--><div id="dismissable" class="style-scope ytd-grid-video-renderer"><ytd-thumbnail use-hovered-property="" class="style-scope ytd-grid-video-renderer"><!--css-build:shady--><a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=ylYPr3G9VuA">
+  <yt-img-shadow ftl-eligible="" class="style-scope ytd-thumbnail no-transition" style="background-color: transparent;" loaded=""><!--css-build:shady--><img id="img" class="style-scope yt-img-shadow" alt="" width="210" src="https://i.ytimg.com/vi/ylYPr3G9VuA/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&amp;rs=AOn4CLCMue3w_lHr62H6atkfMSunQLJwug"></yt-img-shadow>
+  
+  <div id="overlays" class="style-scope ytd-thumbnail"><ytd-thumbnail-overlay-time-status-renderer class="style-scope ytd-thumbnail" overlay-style="DEFAULT"><!--css-build:shady--><yt-icon class="style-scope ytd-thumbnail-overlay-time-status-renderer" disable-upgrade="" hidden=""></yt-icon><span class="style-scope ytd-thumbnail-overlay-time-status-renderer" aria-label="45 minutes, 28 seconds">
+  45:28
+</span></ytd-thumbnail-overlay-time-status-renderer><ytd-thumbnail-overlay-now-playing-renderer class="style-scope ytd-thumbnail"><!--css-build:shady--><span class="style-scope ytd-thumbnail-overlay-now-playing-renderer">Now playing</span>
+</ytd-thumbnail-overlay-now-playing-renderer></div>
+  <div id="mouseover-overlay" class="style-scope ytd-thumbnail"></div>
+  <div id="hover-overlays" class="style-scope ytd-thumbnail"></div>
+</a>
+</ytd-thumbnail><div id="details" class="style-scope ytd-grid-video-renderer"><div id="meta" class="style-scope ytd-grid-video-renderer"><h3 class="style-scope ytd-grid-video-renderer"><ytd-badge-supported-renderer class="style-scope ytd-grid-video-renderer" disable-upgrade="" hidden=""></ytd-badge-supported-renderer><a id="video-title" class="yt-simple-endpoint style-scope ytd-grid-video-renderer" aria-label="40 Minute Glutes Superset Workout | TRANSCEND - Day 19 by Sydney Cummings 1 week ago 45 minutes 68,891 views" title="40 Minute Glutes Superset Workout | TRANSCEND - Day 19" href="/watch?v=ylYPr3G9VuA">40 Minute Glutes Superset Workout | TRANSCEND - Day 19</a></h3><div id="metadata-container" class="grid style-scope ytd-grid-video-renderer" meta-block=""><div id="metadata" class="style-scope ytd-grid-video-renderer"><div id="byline-container" class="style-scope ytd-grid-video-renderer" hidden=""><ytd-channel-name id="channel-name" class="style-scope ytd-grid-video-renderer"><!--css-build:shady--><div id="container" class="style-scope ytd-channel-name">
+  <div id="text-container" class="style-scope ytd-channel-name">
+    <yt-formatted-string id="text" title="" class="style-scope ytd-channel-name" ellipsis-truncate=""></yt-formatted-string>
+  </div>
+  <paper-tooltip fit-to-visible-bounds="" class="style-scope ytd-channel-name" role="tooltip" tabindex="-1"><!--css-build:shady-->
+    
+
+    <div id="tooltip" class="hidden style-scope paper-tooltip">
+      
+    
+  
+    </div>
+</paper-tooltip>
+</div>
+<ytd-badge-supported-renderer class="style-scope ytd-channel-name" disable-upgrade="" hidden="">
+</ytd-badge-supported-renderer>
+</ytd-channel-name></div><div id="metadata-line" class="style-scope ytd-grid-video-renderer"><span class="style-scope ytd-grid-video-renderer">68K views</span><span class="style-scope ytd-grid-video-renderer">1 week ago</span><dom-repeat strip-whitespace="" class="style-scope ytd-grid-video-renderer"><template is="dom-repeat"></template></dom-repeat></div></div><div id="additional-metadata-line" class="style-scope ytd-grid-video-renderer"><dom-repeat strip-whitespace="" class="style-scope ytd-grid-video-renderer"><template is="dom-repeat"></template></dom-repeat></div></div></div><ytd-badge-supported-renderer id="video-badges" class="style-scope ytd-grid-video-renderer" disable-upgrade="" hidden=""></ytd-badge-supported-renderer><div id="menu" class="style-scope ytd-grid-video-renderer"><ytd-menu-renderer class="style-scope ytd-grid-video-renderer"><!--css-build:shady--><div id="top-level-buttons" class="style-scope ytd-menu-renderer"></div>
+<yt-icon-button id="button" class="dropdown-trigger style-scope ytd-menu-renderer"><!--css-build:shady--><button id="button" class="style-scope yt-icon-button" aria-label="Action menu">
+  <yt-icon class="style-scope ytd-menu-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" class="style-scope yt-icon" style="pointer-events: none; display: block; width: 100%; height: 100%;"><g class="style-scope yt-icon"><path d="M12 8c1.1 0 2-.9 2-2s-.9-2-2-2-2 .9-2 2 .9 2 2 2zm0 2c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm0 6c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2z" class="style-scope yt-icon"></path></g></svg><!--css-build:shady--></yt-icon>
+</button></yt-icon-button>
+</ytd-menu-renderer></div></div><div id="buttons" class="style-scope ytd-grid-video-renderer"></div></div><div id="dismissed" class="style-scope ytd-grid-video-renderer"><div id="dismissed-content" class="style-scope ytd-grid-video-renderer"></div></div></ytd-grid-video-renderer><ytd-grid-video-renderer class="style-scope ytd-grid-renderer" lockup=""><!--css-build:shady--><div id="dismissable" class="style-scope ytd-grid-video-renderer"><ytd-thumbnail use-hovered-property="" class="style-scope ytd-grid-video-renderer"><!--css-build:shady--><a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=imqPulvXwH0">
+  <yt-img-shadow ftl-eligible="" class="style-scope ytd-thumbnail no-transition" style="background-color: transparent;" loaded=""><!--css-build:shady--><img id="img" class="style-scope yt-img-shadow" alt="" width="210" src="https://i.ytimg.com/vi/imqPulvXwH0/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&amp;rs=AOn4CLDS5ZuLZWA1_yUfnmqiiWFlHW54IA"></yt-img-shadow>
+  
+  <div id="overlays" class="style-scope ytd-thumbnail"><ytd-thumbnail-overlay-time-status-renderer class="style-scope ytd-thumbnail" overlay-style="DEFAULT"><!--css-build:shady--><yt-icon class="style-scope ytd-thumbnail-overlay-time-status-renderer" disable-upgrade="" hidden=""></yt-icon><span class="style-scope ytd-thumbnail-overlay-time-status-renderer" aria-label="48 minutes, 54 seconds">
+  48:54
+</span></ytd-thumbnail-overlay-time-status-renderer><ytd-thumbnail-overlay-now-playing-renderer class="style-scope ytd-thumbnail"><!--css-build:shady--><span class="style-scope ytd-thumbnail-overlay-now-playing-renderer">Now playing</span>
+</ytd-thumbnail-overlay-now-playing-renderer></div>
+  <div id="mouseover-overlay" class="style-scope ytd-thumbnail"></div>
+  <div id="hover-overlays" class="style-scope ytd-thumbnail"></div>
+</a>
+</ytd-thumbnail><div id="details" class="style-scope ytd-grid-video-renderer"><div id="meta" class="style-scope ytd-grid-video-renderer"><h3 class="style-scope ytd-grid-video-renderer"><ytd-badge-supported-renderer class="style-scope ytd-grid-video-renderer" disable-upgrade="" hidden=""></ytd-badge-supported-renderer><a id="video-title" class="yt-simple-endpoint style-scope ytd-grid-video-renderer" aria-label="45 Minute Upper Body Pull Superset Workout | TRANSCEND - Day 18 by Sydney Cummings 1 week ago 48 minutes 57,838 views" title="45 Minute Upper Body Pull Superset Workout | TRANSCEND - Day 18" href="/watch?v=imqPulvXwH0">45 Minute Upper Body Pull Superset Workout | TRANSCEND - Day 18</a></h3><div id="metadata-container" class="grid style-scope ytd-grid-video-renderer" meta-block=""><div id="metadata" class="style-scope ytd-grid-video-renderer"><div id="byline-container" class="style-scope ytd-grid-video-renderer" hidden=""><ytd-channel-name id="channel-name" class="style-scope ytd-grid-video-renderer"><!--css-build:shady--><div id="container" class="style-scope ytd-channel-name">
+  <div id="text-container" class="style-scope ytd-channel-name">
+    <yt-formatted-string id="text" title="" class="style-scope ytd-channel-name" ellipsis-truncate=""></yt-formatted-string>
+  </div>
+  <paper-tooltip fit-to-visible-bounds="" class="style-scope ytd-channel-name" role="tooltip" tabindex="-1"><!--css-build:shady-->
+    
+
+    <div id="tooltip" class="hidden style-scope paper-tooltip">
+      
+    
+  
+    </div>
+</paper-tooltip>
+</div>
+<ytd-badge-supported-renderer class="style-scope ytd-channel-name" disable-upgrade="" hidden="">
+</ytd-badge-supported-renderer>
+</ytd-channel-name></div><div id="metadata-line" class="style-scope ytd-grid-video-renderer"><span class="style-scope ytd-grid-video-renderer">57K views</span><span class="style-scope ytd-grid-video-renderer">1 week ago</span><dom-repeat strip-whitespace="" class="style-scope ytd-grid-video-renderer"><template is="dom-repeat"></template></dom-repeat></div></div><div id="additional-metadata-line" class="style-scope ytd-grid-video-renderer"><dom-repeat strip-whitespace="" class="style-scope ytd-grid-video-renderer"><template is="dom-repeat"></template></dom-repeat></div></div></div><ytd-badge-supported-renderer id="video-badges" class="style-scope ytd-grid-video-renderer" disable-upgrade="" hidden=""></ytd-badge-supported-renderer><div id="menu" class="style-scope ytd-grid-video-renderer"><ytd-menu-renderer class="style-scope ytd-grid-video-renderer"><!--css-build:shady--><div id="top-level-buttons" class="style-scope ytd-menu-renderer"></div>
+<yt-icon-button id="button" class="dropdown-trigger style-scope ytd-menu-renderer"><!--css-build:shady--><button id="button" class="style-scope yt-icon-button" aria-label="Action menu">
+  <yt-icon class="style-scope ytd-menu-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" class="style-scope yt-icon" style="pointer-events: none; display: block; width: 100%; height: 100%;"><g class="style-scope yt-icon"><path d="M12 8c1.1 0 2-.9 2-2s-.9-2-2-2-2 .9-2 2 .9 2 2 2zm0 2c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm0 6c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2z" class="style-scope yt-icon"></path></g></svg><!--css-build:shady--></yt-icon>
+</button></yt-icon-button>
+</ytd-menu-renderer></div></div><div id="buttons" class="style-scope ytd-grid-video-renderer"></div></div><div id="dismissed" class="style-scope ytd-grid-video-renderer"><div id="dismissed-content" class="style-scope ytd-grid-video-renderer"></div></div></ytd-grid-video-renderer><ytd-grid-video-renderer class="style-scope ytd-grid-renderer" lockup=""><!--css-build:shady--><div id="dismissable" class="style-scope ytd-grid-video-renderer"><ytd-thumbnail use-hovered-property="" class="style-scope ytd-grid-video-renderer"><!--css-build:shady--><a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=Ufxoj3qUi9c">
+  <yt-img-shadow ftl-eligible="" class="style-scope ytd-thumbnail no-transition" style="background-color: transparent;" loaded=""><!--css-build:shady--><img id="img" class="style-scope yt-img-shadow" alt="" width="210" src="https://i.ytimg.com/vi/Ufxoj3qUi9c/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&amp;rs=AOn4CLBIHOIqFXmdo4e0bNoSq-bpH1UOYA"></yt-img-shadow>
+  
+  <div id="overlays" class="style-scope ytd-thumbnail"><ytd-thumbnail-overlay-time-status-renderer class="style-scope ytd-thumbnail" overlay-style="DEFAULT"><!--css-build:shady--><yt-icon class="style-scope ytd-thumbnail-overlay-time-status-renderer" disable-upgrade="" hidden=""></yt-icon><span class="style-scope ytd-thumbnail-overlay-time-status-renderer" aria-label="35 minutes, 12 seconds">
+  35:12
+</span></ytd-thumbnail-overlay-time-status-renderer><ytd-thumbnail-overlay-now-playing-renderer class="style-scope ytd-thumbnail"><!--css-build:shady--><span class="style-scope ytd-thumbnail-overlay-now-playing-renderer">Now playing</span>
+</ytd-thumbnail-overlay-now-playing-renderer></div>
+  <div id="mouseover-overlay" class="style-scope ytd-thumbnail"></div>
+  <div id="hover-overlays" class="style-scope ytd-thumbnail"></div>
+</a>
+</ytd-thumbnail><div id="details" class="style-scope ytd-grid-video-renderer"><div id="meta" class="style-scope ytd-grid-video-renderer"><h3 class="style-scope ytd-grid-video-renderer"><ytd-badge-supported-renderer class="style-scope ytd-grid-video-renderer" disable-upgrade="" hidden=""></ytd-badge-supported-renderer><a id="video-title" class="yt-simple-endpoint style-scope ytd-grid-video-renderer" aria-label="30 Minute No Equipment Cardio and Abs Workout | TRANSCEND - Day 17 by Sydney Cummings 1 week ago 35 minutes 104,794 views" title="30 Minute No Equipment Cardio and Abs Workout | TRANSCEND - Day 17" href="/watch?v=Ufxoj3qUi9c">30 Minute No Equipment Cardio and Abs Workout | TRANSCEND - Day 17</a></h3><div id="metadata-container" class="grid style-scope ytd-grid-video-renderer" meta-block=""><div id="metadata" class="style-scope ytd-grid-video-renderer"><div id="byline-container" class="style-scope ytd-grid-video-renderer" hidden=""><ytd-channel-name id="channel-name" class="style-scope ytd-grid-video-renderer"><!--css-build:shady--><div id="container" class="style-scope ytd-channel-name">
+  <div id="text-container" class="style-scope ytd-channel-name">
+    <yt-formatted-string id="text" title="" class="style-scope ytd-channel-name" ellipsis-truncate=""></yt-formatted-string>
+  </div>
+  <paper-tooltip fit-to-visible-bounds="" class="style-scope ytd-channel-name" role="tooltip" tabindex="-1"><!--css-build:shady-->
+    
+
+    <div id="tooltip" class="hidden style-scope paper-tooltip">
+      
+    
+  
+    </div>
+</paper-tooltip>
+</div>
+<ytd-badge-supported-renderer class="style-scope ytd-channel-name" disable-upgrade="" hidden="">
+</ytd-badge-supported-renderer>
+</ytd-channel-name></div><div id="metadata-line" class="style-scope ytd-grid-video-renderer"><span class="style-scope ytd-grid-video-renderer">104K views</span><span class="style-scope ytd-grid-video-renderer">1 week ago</span><dom-repeat strip-whitespace="" class="style-scope ytd-grid-video-renderer"><template is="dom-repeat"></template></dom-repeat></div></div><div id="additional-metadata-line" class="style-scope ytd-grid-video-renderer"><dom-repeat strip-whitespace="" class="style-scope ytd-grid-video-renderer"><template is="dom-repeat"></template></dom-repeat></div></div></div><ytd-badge-supported-renderer id="video-badges" class="style-scope ytd-grid-video-renderer" disable-upgrade="" hidden=""></ytd-badge-supported-renderer><div id="menu" class="style-scope ytd-grid-video-renderer"><ytd-menu-renderer class="style-scope ytd-grid-video-renderer"><!--css-build:shady--><div id="top-level-buttons" class="style-scope ytd-menu-renderer"></div>
+<yt-icon-button id="button" class="dropdown-trigger style-scope ytd-menu-renderer"><!--css-build:shady--><button id="button" class="style-scope yt-icon-button" aria-label="Action menu">
+  <yt-icon class="style-scope ytd-menu-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" class="style-scope yt-icon" style="pointer-events: none; display: block; width: 100%; height: 100%;"><g class="style-scope yt-icon"><path d="M12 8c1.1 0 2-.9 2-2s-.9-2-2-2-2 .9-2 2 .9 2 2 2zm0 2c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm0 6c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2z" class="style-scope yt-icon"></path></g></svg><!--css-build:shady--></yt-icon>
+</button></yt-icon-button>
+</ytd-menu-renderer></div></div><div id="buttons" class="style-scope ytd-grid-video-renderer"></div></div><div id="dismissed" class="style-scope ytd-grid-video-renderer"><div id="dismissed-content" class="style-scope ytd-grid-video-renderer"></div></div></ytd-grid-video-renderer><ytd-grid-video-renderer class="style-scope ytd-grid-renderer" lockup=""><!--css-build:shady--><div id="dismissable" class="style-scope ytd-grid-video-renderer"><ytd-thumbnail use-hovered-property="" class="style-scope ytd-grid-video-renderer"><!--css-build:shady--><a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=1mQXmJsaZ20">
+  <yt-img-shadow ftl-eligible="" class="style-scope ytd-thumbnail no-transition" style="background-color: transparent;" loaded=""><!--css-build:shady--><img id="img" class="style-scope yt-img-shadow" alt="" width="210" src="https://i.ytimg.com/vi/1mQXmJsaZ20/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&amp;rs=AOn4CLCqMa2TW3dq-2AZhP3_q-UrE5vOpA"></yt-img-shadow>
+  
+  <div id="overlays" class="style-scope ytd-thumbnail"><ytd-thumbnail-overlay-time-status-renderer class="style-scope ytd-thumbnail" overlay-style="DEFAULT"><!--css-build:shady--><yt-icon class="style-scope ytd-thumbnail-overlay-time-status-renderer" disable-upgrade="" hidden=""></yt-icon><span class="style-scope ytd-thumbnail-overlay-time-status-renderer" aria-label="44 minutes, 15 seconds">
+  44:15
+</span></ytd-thumbnail-overlay-time-status-renderer><ytd-thumbnail-overlay-now-playing-renderer class="style-scope ytd-thumbnail"><!--css-build:shady--><span class="style-scope ytd-thumbnail-overlay-now-playing-renderer">Now playing</span>
+</ytd-thumbnail-overlay-now-playing-renderer></div>
+  <div id="mouseover-overlay" class="style-scope ytd-thumbnail"></div>
+  <div id="hover-overlays" class="style-scope ytd-thumbnail"></div>
+</a>
+</ytd-thumbnail><div id="details" class="style-scope ytd-grid-video-renderer"><div id="meta" class="style-scope ytd-grid-video-renderer"><h3 class="style-scope ytd-grid-video-renderer"><ytd-badge-supported-renderer class="style-scope ytd-grid-video-renderer" disable-upgrade="" hidden=""></ytd-badge-supported-renderer><a id="video-title" class="yt-simple-endpoint style-scope ytd-grid-video-renderer" aria-label="40 Minute Upper Body Push Superset Workout | TRANSCEND - Day 16 by Sydney Cummings 2 weeks ago 44 minutes 64,033 views" title="40 Minute Upper Body Push Superset Workout | TRANSCEND - Day 16" href="/watch?v=1mQXmJsaZ20">40 Minute Upper Body Push Superset Workout | TRANSCEND - Day 16</a></h3><div id="metadata-container" class="grid style-scope ytd-grid-video-renderer" meta-block=""><div id="metadata" class="style-scope ytd-grid-video-renderer"><div id="byline-container" class="style-scope ytd-grid-video-renderer" hidden=""><ytd-channel-name id="channel-name" class="style-scope ytd-grid-video-renderer"><!--css-build:shady--><div id="container" class="style-scope ytd-channel-name">
+  <div id="text-container" class="style-scope ytd-channel-name">
+    <yt-formatted-string id="text" title="" class="style-scope ytd-channel-name" ellipsis-truncate=""></yt-formatted-string>
+  </div>
+  <paper-tooltip fit-to-visible-bounds="" class="style-scope ytd-channel-name" role="tooltip" tabindex="-1"><!--css-build:shady-->
+    
+
+    <div id="tooltip" class="hidden style-scope paper-tooltip">
+      
+    
+  
+    </div>
+</paper-tooltip>
+</div>
+<ytd-badge-supported-renderer class="style-scope ytd-channel-name" disable-upgrade="" hidden="">
+</ytd-badge-supported-renderer>
+</ytd-channel-name></div><div id="metadata-line" class="style-scope ytd-grid-video-renderer"><span class="style-scope ytd-grid-video-renderer">64K views</span><span class="style-scope ytd-grid-video-renderer">2 weeks ago</span><dom-repeat strip-whitespace="" class="style-scope ytd-grid-video-renderer"><template is="dom-repeat"></template></dom-repeat></div></div><div id="additional-metadata-line" class="style-scope ytd-grid-video-renderer"><dom-repeat strip-whitespace="" class="style-scope ytd-grid-video-renderer"><template is="dom-repeat"></template></dom-repeat></div></div></div><ytd-badge-supported-renderer id="video-badges" class="style-scope ytd-grid-video-renderer" disable-upgrade="" hidden=""></ytd-badge-supported-renderer><div id="menu" class="style-scope ytd-grid-video-renderer"><ytd-menu-renderer class="style-scope ytd-grid-video-renderer"><!--css-build:shady--><div id="top-level-buttons" class="style-scope ytd-menu-renderer"></div>
+<yt-icon-button id="button" class="dropdown-trigger style-scope ytd-menu-renderer"><!--css-build:shady--><button id="button" class="style-scope yt-icon-button" aria-label="Action menu">
+  <yt-icon class="style-scope ytd-menu-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" class="style-scope yt-icon" style="pointer-events: none; display: block; width: 100%; height: 100%;"><g class="style-scope yt-icon"><path d="M12 8c1.1 0 2-.9 2-2s-.9-2-2-2-2 .9-2 2 .9 2 2 2zm0 2c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm0 6c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2z" class="style-scope yt-icon"></path></g></svg><!--css-build:shady--></yt-icon>
+</button></yt-icon-button>
+</ytd-menu-renderer></div></div><div id="buttons" class="style-scope ytd-grid-video-renderer"></div></div><div id="dismissed" class="style-scope ytd-grid-video-renderer"><div id="dismissed-content" class="style-scope ytd-grid-video-renderer"></div></div></ytd-grid-video-renderer><ytd-grid-video-renderer class="style-scope ytd-grid-renderer" lockup=""><!--css-build:shady--><div id="dismissable" class="style-scope ytd-grid-video-renderer"><ytd-thumbnail use-hovered-property="" class="style-scope ytd-grid-video-renderer"><!--css-build:shady--><a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=MW6BAp48HR0">
+  <yt-img-shadow ftl-eligible="" class="style-scope ytd-thumbnail no-transition empty" style="background-color: transparent;"><!--css-build:shady--><img id="img" class="style-scope yt-img-shadow" alt="" width="210"></yt-img-shadow>
+  
+  <div id="overlays" class="style-scope ytd-thumbnail"><ytd-thumbnail-overlay-time-status-renderer class="style-scope ytd-thumbnail" overlay-style="DEFAULT"><!--css-build:shady--><yt-icon class="style-scope ytd-thumbnail-overlay-time-status-renderer" disable-upgrade="" hidden=""></yt-icon><span class="style-scope ytd-thumbnail-overlay-time-status-renderer" aria-label="50 minutes, 13 seconds">
+  50:13
+</span></ytd-thumbnail-overlay-time-status-renderer><ytd-thumbnail-overlay-now-playing-renderer class="style-scope ytd-thumbnail"><!--css-build:shady--><span class="style-scope ytd-thumbnail-overlay-now-playing-renderer">Now playing</span>
+</ytd-thumbnail-overlay-now-playing-renderer></div>
+  <div id="mouseover-overlay" class="style-scope ytd-thumbnail"></div>
+  <div id="hover-overlays" class="style-scope ytd-thumbnail"></div>
+</a>
+</ytd-thumbnail><div id="details" class="style-scope ytd-grid-video-renderer"><div id="meta" class="style-scope ytd-grid-video-renderer"><h3 class="style-scope ytd-grid-video-renderer"><ytd-badge-supported-renderer class="style-scope ytd-grid-video-renderer" disable-upgrade="" hidden=""></ytd-badge-supported-renderer><a id="video-title" class="yt-simple-endpoint style-scope ytd-grid-video-renderer" aria-label="45 Minute Legs Workout | TRANSCEND - Day 15 by Sydney Cummings 2 weeks ago 50 minutes 75,270 views" title="45 Minute Legs Workout | TRANSCEND - Day 15" href="/watch?v=MW6BAp48HR0">45 Minute Legs Workout | TRANSCEND - Day 15</a></h3><div id="metadata-container" class="grid style-scope ytd-grid-video-renderer" meta-block=""><div id="metadata" class="style-scope ytd-grid-video-renderer"><div id="byline-container" class="style-scope ytd-grid-video-renderer" hidden=""><ytd-channel-name id="channel-name" class="style-scope ytd-grid-video-renderer"><!--css-build:shady--><div id="container" class="style-scope ytd-channel-name">
+  <div id="text-container" class="style-scope ytd-channel-name">
+    <yt-formatted-string id="text" title="" class="style-scope ytd-channel-name" ellipsis-truncate=""></yt-formatted-string>
+  </div>
+  <paper-tooltip fit-to-visible-bounds="" class="style-scope ytd-channel-name" role="tooltip" tabindex="-1"><!--css-build:shady-->
+    
+
+    <div id="tooltip" class="hidden style-scope paper-tooltip">
+      
+    
+  
+    </div>
+</paper-tooltip>
+</div>
+<ytd-badge-supported-renderer class="style-scope ytd-channel-name" disable-upgrade="" hidden="">
+</ytd-badge-supported-renderer>
+</ytd-channel-name></div><div id="metadata-line" class="style-scope ytd-grid-video-renderer"><span class="style-scope ytd-grid-video-renderer">75K views</span><span class="style-scope ytd-grid-video-renderer">2 weeks ago</span><dom-repeat strip-whitespace="" class="style-scope ytd-grid-video-renderer"><template is="dom-repeat"></template></dom-repeat></div></div><div id="additional-metadata-line" class="style-scope ytd-grid-video-renderer"><dom-repeat strip-whitespace="" class="style-scope ytd-grid-video-renderer"><template is="dom-repeat"></template></dom-repeat></div></div></div><ytd-badge-supported-renderer id="video-badges" class="style-scope ytd-grid-video-renderer" disable-upgrade="" hidden=""></ytd-badge-supported-renderer><div id="menu" class="style-scope ytd-grid-video-renderer"><ytd-menu-renderer class="style-scope ytd-grid-video-renderer"><!--css-build:shady--><div id="top-level-buttons" class="style-scope ytd-menu-renderer"></div>
+<yt-icon-button id="button" class="dropdown-trigger style-scope ytd-menu-renderer"><!--css-build:shady--><button id="button" class="style-scope yt-icon-button" aria-label="Action menu">
+  <yt-icon class="style-scope ytd-menu-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" class="style-scope yt-icon" style="pointer-events: none; display: block; width: 100%; height: 100%;"><g class="style-scope yt-icon"><path d="M12 8c1.1 0 2-.9 2-2s-.9-2-2-2-2 .9-2 2 .9 2 2 2zm0 2c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm0 6c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2z" class="style-scope yt-icon"></path></g></svg><!--css-build:shady--></yt-icon>
+</button></yt-icon-button>
+</ytd-menu-renderer></div></div><div id="buttons" class="style-scope ytd-grid-video-renderer"></div></div><div id="dismissed" class="style-scope ytd-grid-video-renderer"><div id="dismissed-content" class="style-scope ytd-grid-video-renderer"></div></div></ytd-grid-video-renderer><ytd-grid-video-renderer class="style-scope ytd-grid-renderer" lockup=""><!--css-build:shady--><div id="dismissable" class="style-scope ytd-grid-video-renderer"><ytd-thumbnail use-hovered-property="" class="style-scope ytd-grid-video-renderer"><!--css-build:shady--><a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=LRleulf3caM">
+  <yt-img-shadow ftl-eligible="" class="style-scope ytd-thumbnail no-transition empty" style="background-color: transparent;"><!--css-build:shady--><img id="img" class="style-scope yt-img-shadow" alt="" width="210"></yt-img-shadow>
+  
+  <div id="overlays" class="style-scope ytd-thumbnail"><ytd-thumbnail-overlay-time-status-renderer class="style-scope ytd-thumbnail" overlay-style="DEFAULT"><!--css-build:shady--><yt-icon class="style-scope ytd-thumbnail-overlay-time-status-renderer" disable-upgrade="" hidden=""></yt-icon><span class="style-scope ytd-thumbnail-overlay-time-status-renderer" aria-label="44 minutes, 5 seconds">
+  44:05
+</span></ytd-thumbnail-overlay-time-status-renderer><ytd-thumbnail-overlay-now-playing-renderer class="style-scope ytd-thumbnail"><!--css-build:shady--><span class="style-scope ytd-thumbnail-overlay-now-playing-renderer">Now playing</span>
+</ytd-thumbnail-overlay-now-playing-renderer></div>
+  <div id="mouseover-overlay" class="style-scope ytd-thumbnail"></div>
+  <div id="hover-overlays" class="style-scope ytd-thumbnail"></div>
+</a>
+</ytd-thumbnail><div id="details" class="style-scope ytd-grid-video-renderer"><div id="meta" class="style-scope ytd-grid-video-renderer"><h3 class="style-scope ytd-grid-video-renderer"><ytd-badge-supported-renderer class="style-scope ytd-grid-video-renderer" disable-upgrade="" hidden=""></ytd-badge-supported-renderer><a id="video-title" class="yt-simple-endpoint style-scope ytd-grid-video-renderer" aria-label="40 Minute Full Body &amp; Cardio AMRAP Workout | TRANSCEND - Day 14 by Sydney Cummings 2 weeks ago 44 minutes 102,795 views" title="40 Minute Full Body &amp; Cardio AMRAP Workout | TRANSCEND - Day 14" href="/watch?v=LRleulf3caM">40 Minute Full Body &amp; Cardio AMRAP Workout | TRANSCEND - Day 14</a></h3><div id="metadata-container" class="grid style-scope ytd-grid-video-renderer" meta-block=""><div id="metadata" class="style-scope ytd-grid-video-renderer"><div id="byline-container" class="style-scope ytd-grid-video-renderer" hidden=""><ytd-channel-name id="channel-name" class="style-scope ytd-grid-video-renderer"><!--css-build:shady--><div id="container" class="style-scope ytd-channel-name">
+  <div id="text-container" class="style-scope ytd-channel-name">
+    <yt-formatted-string id="text" title="" class="style-scope ytd-channel-name" ellipsis-truncate=""></yt-formatted-string>
+  </div>
+  <paper-tooltip fit-to-visible-bounds="" class="style-scope ytd-channel-name" role="tooltip" tabindex="-1"><!--css-build:shady-->
+    
+
+    <div id="tooltip" class="hidden style-scope paper-tooltip">
+      
+    
+  
+    </div>
+</paper-tooltip>
+</div>
+<ytd-badge-supported-renderer class="style-scope ytd-channel-name" disable-upgrade="" hidden="">
+</ytd-badge-supported-renderer>
+</ytd-channel-name></div><div id="metadata-line" class="style-scope ytd-grid-video-renderer"><span class="style-scope ytd-grid-video-renderer">102K views</span><span class="style-scope ytd-grid-video-renderer">2 weeks ago</span><dom-repeat strip-whitespace="" class="style-scope ytd-grid-video-renderer"><template is="dom-repeat"></template></dom-repeat></div></div><div id="additional-metadata-line" class="style-scope ytd-grid-video-renderer"><dom-repeat strip-whitespace="" class="style-scope ytd-grid-video-renderer"><template is="dom-repeat"></template></dom-repeat></div></div></div><ytd-badge-supported-renderer id="video-badges" class="style-scope ytd-grid-video-renderer" disable-upgrade="" hidden=""></ytd-badge-supported-renderer><div id="menu" class="style-scope ytd-grid-video-renderer"><ytd-menu-renderer class="style-scope ytd-grid-video-renderer"><!--css-build:shady--><div id="top-level-buttons" class="style-scope ytd-menu-renderer"></div>
+<yt-icon-button id="button" class="dropdown-trigger style-scope ytd-menu-renderer"><!--css-build:shady--><button id="button" class="style-scope yt-icon-button" aria-label="Action menu">
+  <yt-icon class="style-scope ytd-menu-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" class="style-scope yt-icon" style="pointer-events: none; display: block; width: 100%; height: 100%;"><g class="style-scope yt-icon"><path d="M12 8c1.1 0 2-.9 2-2s-.9-2-2-2-2 .9-2 2 .9 2 2 2zm0 2c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm0 6c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2z" class="style-scope yt-icon"></path></g></svg><!--css-build:shady--></yt-icon>
+</button></yt-icon-button>
+</ytd-menu-renderer></div></div><div id="buttons" class="style-scope ytd-grid-video-renderer"></div></div><div id="dismissed" class="style-scope ytd-grid-video-renderer"><div id="dismissed-content" class="style-scope ytd-grid-video-renderer"></div></div></ytd-grid-video-renderer><ytd-grid-video-renderer class="style-scope ytd-grid-renderer" lockup=""><!--css-build:shady--><div id="dismissable" class="style-scope ytd-grid-video-renderer"><ytd-thumbnail use-hovered-property="" class="style-scope ytd-grid-video-renderer"><!--css-build:shady--><a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=RNgP7mqcgrg">
+  <yt-img-shadow ftl-eligible="" class="style-scope ytd-thumbnail no-transition empty" style="background-color: transparent;"><!--css-build:shady--><img id="img" class="style-scope yt-img-shadow" alt="" width="210"></yt-img-shadow>
+  
+  <div id="overlays" class="style-scope ytd-thumbnail"><ytd-thumbnail-overlay-time-status-renderer class="style-scope ytd-thumbnail" overlay-style="DEFAULT"><!--css-build:shady--><yt-icon class="style-scope ytd-thumbnail-overlay-time-status-renderer" disable-upgrade="" hidden=""></yt-icon><span class="style-scope ytd-thumbnail-overlay-time-status-renderer" aria-label="22 minutes, 2 seconds">
+  22:02
+</span></ytd-thumbnail-overlay-time-status-renderer><ytd-thumbnail-overlay-now-playing-renderer class="style-scope ytd-thumbnail"><!--css-build:shady--><span class="style-scope ytd-thumbnail-overlay-now-playing-renderer">Now playing</span>
+</ytd-thumbnail-overlay-now-playing-renderer></div>
+  <div id="mouseover-overlay" class="style-scope ytd-thumbnail"></div>
+  <div id="hover-overlays" class="style-scope ytd-thumbnail"></div>
+</a>
+</ytd-thumbnail><div id="details" class="style-scope ytd-grid-video-renderer"><div id="meta" class="style-scope ytd-grid-video-renderer"><h3 class="style-scope ytd-grid-video-renderer"><ytd-badge-supported-renderer class="style-scope ytd-grid-video-renderer" disable-upgrade="" hidden=""></ytd-badge-supported-renderer><a id="video-title" class="yt-simple-endpoint style-scope ytd-grid-video-renderer" aria-label="20 Minute Upper Body &amp; Neck Stretch | TRANSCEND - Day 13 by Sydney Cummings 2 weeks ago 22 minutes 30,299 views" title="20 Minute Upper Body &amp; Neck Stretch | TRANSCEND - Day 13" href="/watch?v=RNgP7mqcgrg">20 Minute Upper Body &amp; Neck Stretch | TRANSCEND - Day 13</a></h3><div id="metadata-container" class="grid style-scope ytd-grid-video-renderer" meta-block=""><div id="metadata" class="style-scope ytd-grid-video-renderer"><div id="byline-container" class="style-scope ytd-grid-video-renderer" hidden=""><ytd-channel-name id="channel-name" class="style-scope ytd-grid-video-renderer"><!--css-build:shady--><div id="container" class="style-scope ytd-channel-name">
+  <div id="text-container" class="style-scope ytd-channel-name">
+    <yt-formatted-string id="text" title="" class="style-scope ytd-channel-name" ellipsis-truncate=""></yt-formatted-string>
+  </div>
+  <paper-tooltip fit-to-visible-bounds="" class="style-scope ytd-channel-name" role="tooltip" tabindex="-1"><!--css-build:shady-->
+    
+
+    <div id="tooltip" class="hidden style-scope paper-tooltip">
+      
+    
+  
+    </div>
+</paper-tooltip>
+</div>
+<ytd-badge-supported-renderer class="style-scope ytd-channel-name" disable-upgrade="" hidden="">
+</ytd-badge-supported-renderer>
+</ytd-channel-name></div><div id="metadata-line" class="style-scope ytd-grid-video-renderer"><span class="style-scope ytd-grid-video-renderer">30K views</span><span class="style-scope ytd-grid-video-renderer">2 weeks ago</span><dom-repeat strip-whitespace="" class="style-scope ytd-grid-video-renderer"><template is="dom-repeat"></template></dom-repeat></div></div><div id="additional-metadata-line" class="style-scope ytd-grid-video-renderer"><dom-repeat strip-whitespace="" class="style-scope ytd-grid-video-renderer"><template is="dom-repeat"></template></dom-repeat></div></div></div><ytd-badge-supported-renderer id="video-badges" class="style-scope ytd-grid-video-renderer" disable-upgrade="" hidden=""></ytd-badge-supported-renderer><div id="menu" class="style-scope ytd-grid-video-renderer"><ytd-menu-renderer class="style-scope ytd-grid-video-renderer"><!--css-build:shady--><div id="top-level-buttons" class="style-scope ytd-menu-renderer"></div>
+<yt-icon-button id="button" class="dropdown-trigger style-scope ytd-menu-renderer"><!--css-build:shady--><button id="button" class="style-scope yt-icon-button" aria-label="Action menu">
+  <yt-icon class="style-scope ytd-menu-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" class="style-scope yt-icon" style="pointer-events: none; display: block; width: 100%; height: 100%;"><g class="style-scope yt-icon"><path d="M12 8c1.1 0 2-.9 2-2s-.9-2-2-2-2 .9-2 2 .9 2 2 2zm0 2c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm0 6c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2z" class="style-scope yt-icon"></path></g></svg><!--css-build:shady--></yt-icon>
+</button></yt-icon-button>
+</ytd-menu-renderer></div></div><div id="buttons" class="style-scope ytd-grid-video-renderer"></div></div><div id="dismissed" class="style-scope ytd-grid-video-renderer"><div id="dismissed-content" class="style-scope ytd-grid-video-renderer"></div></div></ytd-grid-video-renderer><ytd-grid-video-renderer class="style-scope ytd-grid-renderer" lockup=""><!--css-build:shady--><div id="dismissable" class="style-scope ytd-grid-video-renderer"><ytd-thumbnail use-hovered-property="" class="style-scope ytd-grid-video-renderer"><!--css-build:shady--><a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=hOlpcSr1UW8">
+  <yt-img-shadow ftl-eligible="" class="style-scope ytd-thumbnail no-transition empty" style="background-color: transparent;"><!--css-build:shady--><img id="img" class="style-scope yt-img-shadow" alt="" width="210"></yt-img-shadow>
+  
+  <div id="overlays" class="style-scope ytd-thumbnail"><ytd-thumbnail-overlay-time-status-renderer class="style-scope ytd-thumbnail" overlay-style="DEFAULT"><!--css-build:shady--><yt-icon class="style-scope ytd-thumbnail-overlay-time-status-renderer" disable-upgrade="" hidden=""></yt-icon><span class="style-scope ytd-thumbnail-overlay-time-status-renderer" aria-label="50 minutes, 31 seconds">
+  50:31
+</span></ytd-thumbnail-overlay-time-status-renderer><ytd-thumbnail-overlay-now-playing-renderer class="style-scope ytd-thumbnail"><!--css-build:shady--><span class="style-scope ytd-thumbnail-overlay-now-playing-renderer">Now playing</span>
+</ytd-thumbnail-overlay-now-playing-renderer></div>
+  <div id="mouseover-overlay" class="style-scope ytd-thumbnail"></div>
+  <div id="hover-overlays" class="style-scope ytd-thumbnail"></div>
+</a>
+</ytd-thumbnail><div id="details" class="style-scope ytd-grid-video-renderer"><div id="meta" class="style-scope ytd-grid-video-renderer"><h3 class="style-scope ytd-grid-video-renderer"><ytd-badge-supported-renderer class="style-scope ytd-grid-video-renderer" disable-upgrade="" hidden=""></ytd-badge-supported-renderer><a id="video-title" class="yt-simple-endpoint style-scope ytd-grid-video-renderer" aria-label="45 Minute Glutes and Cardio Workout | TRANSCEND - Day 12 by Sydney Cummings 2 weeks ago 50 minutes 79,161 views" title="45 Minute Glutes and Cardio Workout | TRANSCEND - Day 12" href="/watch?v=hOlpcSr1UW8">45 Minute Glutes and Cardio Workout | TRANSCEND - Day 12</a></h3><div id="metadata-container" class="grid style-scope ytd-grid-video-renderer" meta-block=""><div id="metadata" class="style-scope ytd-grid-video-renderer"><div id="byline-container" class="style-scope ytd-grid-video-renderer" hidden=""><ytd-channel-name id="channel-name" class="style-scope ytd-grid-video-renderer"><!--css-build:shady--><div id="container" class="style-scope ytd-channel-name">
+  <div id="text-container" class="style-scope ytd-channel-name">
+    <yt-formatted-string id="text" title="" class="style-scope ytd-channel-name" ellipsis-truncate=""></yt-formatted-string>
+  </div>
+  <paper-tooltip fit-to-visible-bounds="" class="style-scope ytd-channel-name" role="tooltip" tabindex="-1"><!--css-build:shady-->
+    
+
+    <div id="tooltip" class="hidden style-scope paper-tooltip">
+      
+    
+  
+    </div>
+</paper-tooltip>
+</div>
+<ytd-badge-supported-renderer class="style-scope ytd-channel-name" disable-upgrade="" hidden="">
+</ytd-badge-supported-renderer>
+</ytd-channel-name></div><div id="metadata-line" class="style-scope ytd-grid-video-renderer"><span class="style-scope ytd-grid-video-renderer">79K views</span><span class="style-scope ytd-grid-video-renderer">2 weeks ago</span><dom-repeat strip-whitespace="" class="style-scope ytd-grid-video-renderer"><template is="dom-repeat"></template></dom-repeat></div></div><div id="additional-metadata-line" class="style-scope ytd-grid-video-renderer"><dom-repeat strip-whitespace="" class="style-scope ytd-grid-video-renderer"><template is="dom-repeat"></template></dom-repeat></div></div></div><ytd-badge-supported-renderer id="video-badges" class="style-scope ytd-grid-video-renderer" disable-upgrade="" hidden=""></ytd-badge-supported-renderer><div id="menu" class="style-scope ytd-grid-video-renderer"><ytd-menu-renderer class="style-scope ytd-grid-video-renderer"><!--css-build:shady--><div id="top-level-buttons" class="style-scope ytd-menu-renderer"></div>
+<yt-icon-button id="button" class="dropdown-trigger style-scope ytd-menu-renderer"><!--css-build:shady--><button id="button" class="style-scope yt-icon-button" aria-label="Action menu">
+  <yt-icon class="style-scope ytd-menu-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" class="style-scope yt-icon" style="pointer-events: none; display: block; width: 100%; height: 100%;"><g class="style-scope yt-icon"><path d="M12 8c1.1 0 2-.9 2-2s-.9-2-2-2-2 .9-2 2 .9 2 2 2zm0 2c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm0 6c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2z" class="style-scope yt-icon"></path></g></svg><!--css-build:shady--></yt-icon>
+</button></yt-icon-button>
+</ytd-menu-renderer></div></div><div id="buttons" class="style-scope ytd-grid-video-renderer"></div></div><div id="dismissed" class="style-scope ytd-grid-video-renderer"><div id="dismissed-content" class="style-scope ytd-grid-video-renderer"></div></div></ytd-grid-video-renderer><ytd-grid-video-renderer class="style-scope ytd-grid-renderer" lockup=""><!--css-build:shady--><div id="dismissable" class="style-scope ytd-grid-video-renderer"><ytd-thumbnail use-hovered-property="" class="style-scope ytd-grid-video-renderer"><!--css-build:shady--><a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=dJaKR77yzXs">
+  <yt-img-shadow ftl-eligible="" class="style-scope ytd-thumbnail no-transition empty" style="background-color: transparent;"><!--css-build:shady--><img id="img" class="style-scope yt-img-shadow" alt="" width="210"></yt-img-shadow>
+  
+  <div id="overlays" class="style-scope ytd-thumbnail"><ytd-thumbnail-overlay-time-status-renderer class="style-scope ytd-thumbnail" overlay-style="DEFAULT"><!--css-build:shady--><yt-icon class="style-scope ytd-thumbnail-overlay-time-status-renderer" disable-upgrade="" hidden=""></yt-icon><span class="style-scope ytd-thumbnail-overlay-time-status-renderer" aria-label="44 minutes">
+  44:00
+</span></ytd-thumbnail-overlay-time-status-renderer><ytd-thumbnail-overlay-now-playing-renderer class="style-scope ytd-thumbnail"><!--css-build:shady--><span class="style-scope ytd-thumbnail-overlay-now-playing-renderer">Now playing</span>
+</ytd-thumbnail-overlay-now-playing-renderer></div>
+  <div id="mouseover-overlay" class="style-scope ytd-thumbnail"></div>
+  <div id="hover-overlays" class="style-scope ytd-thumbnail"></div>
+</a>
+</ytd-thumbnail><div id="details" class="style-scope ytd-grid-video-renderer"><div id="meta" class="style-scope ytd-grid-video-renderer"><h3 class="style-scope ytd-grid-video-renderer"><ytd-badge-supported-renderer class="style-scope ytd-grid-video-renderer" disable-upgrade="" hidden=""></ytd-badge-supported-renderer><a id="video-title" class="yt-simple-endpoint style-scope ytd-grid-video-renderer" aria-label="40 Minute Upper Body Pull Circuit Workout | TRANSCEND - Day 11 by Sydney Cummings 2 weeks ago 44 minutes 67,277 views" title="40 Minute Upper Body Pull Circuit Workout | TRANSCEND - Day 11" href="/watch?v=dJaKR77yzXs">40 Minute Upper Body Pull Circuit Workout | TRANSCEND - Day 11</a></h3><div id="metadata-container" class="grid style-scope ytd-grid-video-renderer" meta-block=""><div id="metadata" class="style-scope ytd-grid-video-renderer"><div id="byline-container" class="style-scope ytd-grid-video-renderer" hidden=""><ytd-channel-name id="channel-name" class="style-scope ytd-grid-video-renderer"><!--css-build:shady--><div id="container" class="style-scope ytd-channel-name">
+  <div id="text-container" class="style-scope ytd-channel-name">
+    <yt-formatted-string id="text" title="" class="style-scope ytd-channel-name" ellipsis-truncate=""></yt-formatted-string>
+  </div>
+  <paper-tooltip fit-to-visible-bounds="" class="style-scope ytd-channel-name" role="tooltip" tabindex="-1"><!--css-build:shady-->
+    
+
+    <div id="tooltip" class="hidden style-scope paper-tooltip">
+      
+    
+  
+    </div>
+</paper-tooltip>
+</div>
+<ytd-badge-supported-renderer class="style-scope ytd-channel-name" disable-upgrade="" hidden="">
+</ytd-badge-supported-renderer>
+</ytd-channel-name></div><div id="metadata-line" class="style-scope ytd-grid-video-renderer"><span class="style-scope ytd-grid-video-renderer">67K views</span><span class="style-scope ytd-grid-video-renderer">2 weeks ago</span><dom-repeat strip-whitespace="" class="style-scope ytd-grid-video-renderer"><template is="dom-repeat"></template></dom-repeat></div></div><div id="additional-metadata-line" class="style-scope ytd-grid-video-renderer"><dom-repeat strip-whitespace="" class="style-scope ytd-grid-video-renderer"><template is="dom-repeat"></template></dom-repeat></div></div></div><ytd-badge-supported-renderer id="video-badges" class="style-scope ytd-grid-video-renderer" disable-upgrade="" hidden=""></ytd-badge-supported-renderer><div id="menu" class="style-scope ytd-grid-video-renderer"><ytd-menu-renderer class="style-scope ytd-grid-video-renderer"><!--css-build:shady--><div id="top-level-buttons" class="style-scope ytd-menu-renderer"></div>
+<yt-icon-button id="button" class="dropdown-trigger style-scope ytd-menu-renderer"><!--css-build:shady--><button id="button" class="style-scope yt-icon-button" aria-label="Action menu">
+  <yt-icon class="style-scope ytd-menu-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" class="style-scope yt-icon" style="pointer-events: none; display: block; width: 100%; height: 100%;"><g class="style-scope yt-icon"><path d="M12 8c1.1 0 2-.9 2-2s-.9-2-2-2-2 .9-2 2 .9 2 2 2zm0 2c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm0 6c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2z" class="style-scope yt-icon"></path></g></svg><!--css-build:shady--></yt-icon>
+</button></yt-icon-button>
+</ytd-menu-renderer></div></div><div id="buttons" class="style-scope ytd-grid-video-renderer"></div></div><div id="dismissed" class="style-scope ytd-grid-video-renderer"><div id="dismissed-content" class="style-scope ytd-grid-video-renderer"></div></div></ytd-grid-video-renderer><ytd-grid-video-renderer class="style-scope ytd-grid-renderer" lockup=""><!--css-build:shady--><div id="dismissable" class="style-scope ytd-grid-video-renderer"><ytd-thumbnail use-hovered-property="" class="style-scope ytd-grid-video-renderer"><!--css-build:shady--><a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=q3ArdHrtEWA">
+  <yt-img-shadow ftl-eligible="" class="style-scope ytd-thumbnail no-transition empty" style="background-color: transparent;"><!--css-build:shady--><img id="img" class="style-scope yt-img-shadow" alt="" width="210"></yt-img-shadow>
+  
+  <div id="overlays" class="style-scope ytd-thumbnail"><ytd-thumbnail-overlay-time-status-renderer class="style-scope ytd-thumbnail" overlay-style="DEFAULT"><!--css-build:shady--><yt-icon class="style-scope ytd-thumbnail-overlay-time-status-renderer" disable-upgrade="" hidden=""></yt-icon><span class="style-scope ytd-thumbnail-overlay-time-status-renderer" aria-label="36 minutes, 42 seconds">
+  36:42
+</span></ytd-thumbnail-overlay-time-status-renderer><ytd-thumbnail-overlay-now-playing-renderer class="style-scope ytd-thumbnail"><!--css-build:shady--><span class="style-scope ytd-thumbnail-overlay-now-playing-renderer">Now playing</span>
+</ytd-thumbnail-overlay-now-playing-renderer></div>
+  <div id="mouseover-overlay" class="style-scope ytd-thumbnail"></div>
+  <div id="hover-overlays" class="style-scope ytd-thumbnail"></div>
+</a>
+</ytd-thumbnail><div id="details" class="style-scope ytd-grid-video-renderer"><div id="meta" class="style-scope ytd-grid-video-renderer"><h3 class="style-scope ytd-grid-video-renderer"><ytd-badge-supported-renderer class="style-scope ytd-grid-video-renderer" disable-upgrade="" hidden=""></ytd-badge-supported-renderer><a id="video-title" class="yt-simple-endpoint style-scope ytd-grid-video-renderer" aria-label="30 Minute Cardio and Lower Abs No-Repeat, No-Equipment Workout | TRANSCEND - Day 10 by Sydney Cummings 2 weeks ago 36 minutes 122,099 views" title="30 Minute Cardio and Lower Abs No-Repeat, No-Equipment Workout | TRANSCEND - Day 10" href="/watch?v=q3ArdHrtEWA">30 Minute Cardio and Lower Abs No-Repeat, No-Equipment Workout | TRANSCEND - Day 10</a></h3><div id="metadata-container" class="grid style-scope ytd-grid-video-renderer" meta-block=""><div id="metadata" class="style-scope ytd-grid-video-renderer"><div id="byline-container" class="style-scope ytd-grid-video-renderer" hidden=""><ytd-channel-name id="channel-name" class="style-scope ytd-grid-video-renderer"><!--css-build:shady--><div id="container" class="style-scope ytd-channel-name">
+  <div id="text-container" class="style-scope ytd-channel-name">
+    <yt-formatted-string id="text" title="" class="style-scope ytd-channel-name" ellipsis-truncate=""></yt-formatted-string>
+  </div>
+  <paper-tooltip fit-to-visible-bounds="" class="style-scope ytd-channel-name" role="tooltip" tabindex="-1"><!--css-build:shady-->
+    
+
+    <div id="tooltip" class="hidden style-scope paper-tooltip">
+      
+    
+  
+    </div>
+</paper-tooltip>
+</div>
+<ytd-badge-supported-renderer class="style-scope ytd-channel-name" disable-upgrade="" hidden="">
+</ytd-badge-supported-renderer>
+</ytd-channel-name></div><div id="metadata-line" class="style-scope ytd-grid-video-renderer"><span class="style-scope ytd-grid-video-renderer">122K views</span><span class="style-scope ytd-grid-video-renderer">2 weeks ago</span><dom-repeat strip-whitespace="" class="style-scope ytd-grid-video-renderer"><template is="dom-repeat"></template></dom-repeat></div></div><div id="additional-metadata-line" class="style-scope ytd-grid-video-renderer"><dom-repeat strip-whitespace="" class="style-scope ytd-grid-video-renderer"><template is="dom-repeat"></template></dom-repeat></div></div></div><ytd-badge-supported-renderer id="video-badges" class="style-scope ytd-grid-video-renderer" disable-upgrade="" hidden=""></ytd-badge-supported-renderer><div id="menu" class="style-scope ytd-grid-video-renderer"><ytd-menu-renderer class="style-scope ytd-grid-video-renderer"><!--css-build:shady--><div id="top-level-buttons" class="style-scope ytd-menu-renderer"></div>
+<yt-icon-button id="button" class="dropdown-trigger style-scope ytd-menu-renderer"><!--css-build:shady--><button id="button" class="style-scope yt-icon-button" aria-label="Action menu">
+  <yt-icon class="style-scope ytd-menu-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" class="style-scope yt-icon" style="pointer-events: none; display: block; width: 100%; height: 100%;"><g class="style-scope yt-icon"><path d="M12 8c1.1 0 2-.9 2-2s-.9-2-2-2-2 .9-2 2 .9 2 2 2zm0 2c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm0 6c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2z" class="style-scope yt-icon"></path></g></svg><!--css-build:shady--></yt-icon>
+</button></yt-icon-button>
+</ytd-menu-renderer></div></div><div id="buttons" class="style-scope ytd-grid-video-renderer"></div></div><div id="dismissed" class="style-scope ytd-grid-video-renderer"><div id="dismissed-content" class="style-scope ytd-grid-video-renderer"></div></div></ytd-grid-video-renderer><ytd-grid-video-renderer class="style-scope ytd-grid-renderer" lockup=""><!--css-build:shady--><div id="dismissable" class="style-scope ytd-grid-video-renderer"><ytd-thumbnail use-hovered-property="" class="style-scope ytd-grid-video-renderer"><!--css-build:shady--><a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=OM7saFpXxGI">
+  <yt-img-shadow ftl-eligible="" class="style-scope ytd-thumbnail no-transition empty" style="background-color: transparent;"><!--css-build:shady--><img id="img" class="style-scope yt-img-shadow" alt="" width="210"></yt-img-shadow>
+  
+  <div id="overlays" class="style-scope ytd-thumbnail"><ytd-thumbnail-overlay-time-status-renderer class="style-scope ytd-thumbnail" overlay-style="DEFAULT"><!--css-build:shady--><yt-icon class="style-scope ytd-thumbnail-overlay-time-status-renderer" disable-upgrade="" hidden=""></yt-icon><span class="style-scope ytd-thumbnail-overlay-time-status-renderer" aria-label="43 minutes, 11 seconds">
+  43:11
+</span></ytd-thumbnail-overlay-time-status-renderer><ytd-thumbnail-overlay-now-playing-renderer class="style-scope ytd-thumbnail"><!--css-build:shady--><span class="style-scope ytd-thumbnail-overlay-now-playing-renderer">Now playing</span>
+</ytd-thumbnail-overlay-now-playing-renderer></div>
+  <div id="mouseover-overlay" class="style-scope ytd-thumbnail"></div>
+  <div id="hover-overlays" class="style-scope ytd-thumbnail"></div>
+</a>
+</ytd-thumbnail><div id="details" class="style-scope ytd-grid-video-renderer"><div id="meta" class="style-scope ytd-grid-video-renderer"><h3 class="style-scope ytd-grid-video-renderer"><ytd-badge-supported-renderer class="style-scope ytd-grid-video-renderer" disable-upgrade="" hidden=""></ytd-badge-supported-renderer><a id="video-title" class="yt-simple-endpoint style-scope ytd-grid-video-renderer" aria-label="40 Minute Upper Body Push Circuit Workout | TRANSCEND - Day 9 by Sydney Cummings 3 weeks ago 43 minutes 76,750 views" title="40 Minute Upper Body Push Circuit Workout | TRANSCEND - Day 9" href="/watch?v=OM7saFpXxGI">40 Minute Upper Body Push Circuit Workout | TRANSCEND - Day 9</a></h3><div id="metadata-container" class="grid style-scope ytd-grid-video-renderer" meta-block=""><div id="metadata" class="style-scope ytd-grid-video-renderer"><div id="byline-container" class="style-scope ytd-grid-video-renderer" hidden=""><ytd-channel-name id="channel-name" class="style-scope ytd-grid-video-renderer"><!--css-build:shady--><div id="container" class="style-scope ytd-channel-name">
+  <div id="text-container" class="style-scope ytd-channel-name">
+    <yt-formatted-string id="text" title="" class="style-scope ytd-channel-name" ellipsis-truncate=""></yt-formatted-string>
+  </div>
+  <paper-tooltip fit-to-visible-bounds="" class="style-scope ytd-channel-name" role="tooltip" tabindex="-1"><!--css-build:shady-->
+    
+
+    <div id="tooltip" class="hidden style-scope paper-tooltip">
+      
+    
+  
+    </div>
+</paper-tooltip>
+</div>
+<ytd-badge-supported-renderer class="style-scope ytd-channel-name" disable-upgrade="" hidden="">
+</ytd-badge-supported-renderer>
+</ytd-channel-name></div><div id="metadata-line" class="style-scope ytd-grid-video-renderer"><span class="style-scope ytd-grid-video-renderer">76K views</span><span class="style-scope ytd-grid-video-renderer">3 weeks ago</span><dom-repeat strip-whitespace="" class="style-scope ytd-grid-video-renderer"><template is="dom-repeat"></template></dom-repeat></div></div><div id="additional-metadata-line" class="style-scope ytd-grid-video-renderer"><dom-repeat strip-whitespace="" class="style-scope ytd-grid-video-renderer"><template is="dom-repeat"></template></dom-repeat></div></div></div><ytd-badge-supported-renderer id="video-badges" class="style-scope ytd-grid-video-renderer" disable-upgrade="" hidden=""></ytd-badge-supported-renderer><div id="menu" class="style-scope ytd-grid-video-renderer"><ytd-menu-renderer class="style-scope ytd-grid-video-renderer"><!--css-build:shady--><div id="top-level-buttons" class="style-scope ytd-menu-renderer"></div>
+<yt-icon-button id="button" class="dropdown-trigger style-scope ytd-menu-renderer"><!--css-build:shady--><button id="button" class="style-scope yt-icon-button" aria-label="Action menu">
+  <yt-icon class="style-scope ytd-menu-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" class="style-scope yt-icon" style="pointer-events: none; display: block; width: 100%; height: 100%;"><g class="style-scope yt-icon"><path d="M12 8c1.1 0 2-.9 2-2s-.9-2-2-2-2 .9-2 2 .9 2 2 2zm0 2c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm0 6c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2z" class="style-scope yt-icon"></path></g></svg><!--css-build:shady--></yt-icon>
+</button></yt-icon-button>
+</ytd-menu-renderer></div></div><div id="buttons" class="style-scope ytd-grid-video-renderer"></div></div><div id="dismissed" class="style-scope ytd-grid-video-renderer"><div id="dismissed-content" class="style-scope ytd-grid-video-renderer"></div></div></ytd-grid-video-renderer><ytd-grid-video-renderer class="style-scope ytd-grid-renderer" lockup=""><!--css-build:shady--><div id="dismissable" class="style-scope ytd-grid-video-renderer"><ytd-thumbnail use-hovered-property="" class="style-scope ytd-grid-video-renderer"><!--css-build:shady--><a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=AZ8Bml-zJmA">
+  <yt-img-shadow ftl-eligible="" class="style-scope ytd-thumbnail no-transition empty" style="background-color: transparent;"><!--css-build:shady--><img id="img" class="style-scope yt-img-shadow" alt="" width="210"></yt-img-shadow>
+  
+  <div id="overlays" class="style-scope ytd-thumbnail"><ytd-thumbnail-overlay-time-status-renderer class="style-scope ytd-thumbnail" overlay-style="DEFAULT"><!--css-build:shady--><yt-icon class="style-scope ytd-thumbnail-overlay-time-status-renderer" disable-upgrade="" hidden=""></yt-icon><span class="style-scope ytd-thumbnail-overlay-time-status-renderer" aria-label="48 minutes, 57 seconds">
+  48:57
+</span></ytd-thumbnail-overlay-time-status-renderer><ytd-thumbnail-overlay-now-playing-renderer class="style-scope ytd-thumbnail"><!--css-build:shady--><span class="style-scope ytd-thumbnail-overlay-now-playing-renderer">Now playing</span>
+</ytd-thumbnail-overlay-now-playing-renderer></div>
+  <div id="mouseover-overlay" class="style-scope ytd-thumbnail"></div>
+  <div id="hover-overlays" class="style-scope ytd-thumbnail"></div>
+</a>
+</ytd-thumbnail><div id="details" class="style-scope ytd-grid-video-renderer"><div id="meta" class="style-scope ytd-grid-video-renderer"><h3 class="style-scope ytd-grid-video-renderer"><ytd-badge-supported-renderer class="style-scope ytd-grid-video-renderer" disable-upgrade="" hidden=""></ytd-badge-supported-renderer><a id="video-title" class="yt-simple-endpoint style-scope ytd-grid-video-renderer" aria-label="45 Minute Legs Workout | TRANSCEND - Day 8 by Sydney Cummings 3 weeks ago 48 minutes 84,182 views" title="45 Minute Legs Workout | TRANSCEND - Day 8" href="/watch?v=AZ8Bml-zJmA">45 Minute Legs Workout | TRANSCEND - Day 8</a></h3><div id="metadata-container" class="grid style-scope ytd-grid-video-renderer" meta-block=""><div id="metadata" class="style-scope ytd-grid-video-renderer"><div id="byline-container" class="style-scope ytd-grid-video-renderer" hidden=""><ytd-channel-name id="channel-name" class="style-scope ytd-grid-video-renderer"><!--css-build:shady--><div id="container" class="style-scope ytd-channel-name">
+  <div id="text-container" class="style-scope ytd-channel-name">
+    <yt-formatted-string id="text" title="" class="style-scope ytd-channel-name" ellipsis-truncate=""></yt-formatted-string>
+  </div>
+  <paper-tooltip fit-to-visible-bounds="" class="style-scope ytd-channel-name" role="tooltip" tabindex="-1"><!--css-build:shady-->
+    
+
+    <div id="tooltip" class="hidden style-scope paper-tooltip">
+      
+    
+  
+    </div>
+</paper-tooltip>
+</div>
+<ytd-badge-supported-renderer class="style-scope ytd-channel-name" disable-upgrade="" hidden="">
+</ytd-badge-supported-renderer>
+</ytd-channel-name></div><div id="metadata-line" class="style-scope ytd-grid-video-renderer"><span class="style-scope ytd-grid-video-renderer">84K views</span><span class="style-scope ytd-grid-video-renderer">3 weeks ago</span><dom-repeat strip-whitespace="" class="style-scope ytd-grid-video-renderer"><template is="dom-repeat"></template></dom-repeat></div></div><div id="additional-metadata-line" class="style-scope ytd-grid-video-renderer"><dom-repeat strip-whitespace="" class="style-scope ytd-grid-video-renderer"><template is="dom-repeat"></template></dom-repeat></div></div></div><ytd-badge-supported-renderer id="video-badges" class="style-scope ytd-grid-video-renderer" disable-upgrade="" hidden=""></ytd-badge-supported-renderer><div id="menu" class="style-scope ytd-grid-video-renderer"><ytd-menu-renderer class="style-scope ytd-grid-video-renderer"><!--css-build:shady--><div id="top-level-buttons" class="style-scope ytd-menu-renderer"></div>
+<yt-icon-button id="button" class="dropdown-trigger style-scope ytd-menu-renderer"><!--css-build:shady--><button id="button" class="style-scope yt-icon-button" aria-label="Action menu">
+  <yt-icon class="style-scope ytd-menu-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" class="style-scope yt-icon" style="pointer-events: none; display: block; width: 100%; height: 100%;"><g class="style-scope yt-icon"><path d="M12 8c1.1 0 2-.9 2-2s-.9-2-2-2-2 .9-2 2 .9 2 2 2zm0 2c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm0 6c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2z" class="style-scope yt-icon"></path></g></svg><!--css-build:shady--></yt-icon>
+</button></yt-icon-button>
+</ytd-menu-renderer></div></div><div id="buttons" class="style-scope ytd-grid-video-renderer"></div></div><div id="dismissed" class="style-scope ytd-grid-video-renderer"><div id="dismissed-content" class="style-scope ytd-grid-video-renderer"></div></div></ytd-grid-video-renderer><ytd-grid-video-renderer class="style-scope ytd-grid-renderer" lockup=""><!--css-build:shady--><div id="dismissable" class="style-scope ytd-grid-video-renderer"><ytd-thumbnail use-hovered-property="" class="style-scope ytd-grid-video-renderer"><!--css-build:shady--><a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=7hfTxMn0Gwo">
+  <yt-img-shadow ftl-eligible="" class="style-scope ytd-thumbnail no-transition empty" style="background-color: transparent;"><!--css-build:shady--><img id="img" class="style-scope yt-img-shadow" alt="" width="210"></yt-img-shadow>
+  
+  <div id="overlays" class="style-scope ytd-thumbnail"><ytd-thumbnail-overlay-time-status-renderer class="style-scope ytd-thumbnail" overlay-style="DEFAULT"><!--css-build:shady--><yt-icon class="style-scope ytd-thumbnail-overlay-time-status-renderer" disable-upgrade="" hidden=""></yt-icon><span class="style-scope ytd-thumbnail-overlay-time-status-renderer" aria-label="34 minutes, 26 seconds">
+  34:26
+</span></ytd-thumbnail-overlay-time-status-renderer><ytd-thumbnail-overlay-now-playing-renderer class="style-scope ytd-thumbnail"><!--css-build:shady--><span class="style-scope ytd-thumbnail-overlay-now-playing-renderer">Now playing</span>
+</ytd-thumbnail-overlay-now-playing-renderer></div>
+  <div id="mouseover-overlay" class="style-scope ytd-thumbnail"></div>
+  <div id="hover-overlays" class="style-scope ytd-thumbnail"></div>
+</a>
+</ytd-thumbnail><div id="details" class="style-scope ytd-grid-video-renderer"><div id="meta" class="style-scope ytd-grid-video-renderer"><h3 class="style-scope ytd-grid-video-renderer"><ytd-badge-supported-renderer class="style-scope ytd-grid-video-renderer" disable-upgrade="" hidden=""></ytd-badge-supported-renderer><a id="video-title" class="yt-simple-endpoint style-scope ytd-grid-video-renderer" aria-label="30 Minute Full Body HIIT Bootcamp Workout | TRANSCEND - Day 7 by Sydney Cummings 3 weeks ago 34 minutes 136,631 views" title="30 Minute Full Body HIIT Bootcamp Workout | TRANSCEND - Day 7" href="/watch?v=7hfTxMn0Gwo">30 Minute Full Body HIIT Bootcamp Workout | TRANSCEND - Day 7</a></h3><div id="metadata-container" class="grid style-scope ytd-grid-video-renderer" meta-block=""><div id="metadata" class="style-scope ytd-grid-video-renderer"><div id="byline-container" class="style-scope ytd-grid-video-renderer" hidden=""><ytd-channel-name id="channel-name" class="style-scope ytd-grid-video-renderer"><!--css-build:shady--><div id="container" class="style-scope ytd-channel-name">
+  <div id="text-container" class="style-scope ytd-channel-name">
+    <yt-formatted-string id="text" title="" class="style-scope ytd-channel-name" ellipsis-truncate=""></yt-formatted-string>
+  </div>
+  <paper-tooltip fit-to-visible-bounds="" class="style-scope ytd-channel-name" role="tooltip" tabindex="-1"><!--css-build:shady-->
+    
+
+    <div id="tooltip" class="hidden style-scope paper-tooltip">
+      
+    
+  
+    </div>
+</paper-tooltip>
+</div>
+<ytd-badge-supported-renderer class="style-scope ytd-channel-name" disable-upgrade="" hidden="">
+</ytd-badge-supported-renderer>
+</ytd-channel-name></div><div id="metadata-line" class="style-scope ytd-grid-video-renderer"><span class="style-scope ytd-grid-video-renderer">136K views</span><span class="style-scope ytd-grid-video-renderer">3 weeks ago</span><dom-repeat strip-whitespace="" class="style-scope ytd-grid-video-renderer"><template is="dom-repeat"></template></dom-repeat></div></div><div id="additional-metadata-line" class="style-scope ytd-grid-video-renderer"><dom-repeat strip-whitespace="" class="style-scope ytd-grid-video-renderer"><template is="dom-repeat"></template></dom-repeat></div></div></div><ytd-badge-supported-renderer id="video-badges" class="style-scope ytd-grid-video-renderer" disable-upgrade="" hidden=""></ytd-badge-supported-renderer><div id="menu" class="style-scope ytd-grid-video-renderer"><ytd-menu-renderer class="style-scope ytd-grid-video-renderer"><!--css-build:shady--><div id="top-level-buttons" class="style-scope ytd-menu-renderer"></div>
+<yt-icon-button id="button" class="dropdown-trigger style-scope ytd-menu-renderer"><!--css-build:shady--><button id="button" class="style-scope yt-icon-button" aria-label="Action menu">
+  <yt-icon class="style-scope ytd-menu-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" class="style-scope yt-icon" style="pointer-events: none; display: block; width: 100%; height: 100%;"><g class="style-scope yt-icon"><path d="M12 8c1.1 0 2-.9 2-2s-.9-2-2-2-2 .9-2 2 .9 2 2 2zm0 2c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm0 6c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2z" class="style-scope yt-icon"></path></g></svg><!--css-build:shady--></yt-icon>
+</button></yt-icon-button>
+</ytd-menu-renderer></div></div><div id="buttons" class="style-scope ytd-grid-video-renderer"></div></div><div id="dismissed" class="style-scope ytd-grid-video-renderer"><div id="dismissed-content" class="style-scope ytd-grid-video-renderer"></div></div></ytd-grid-video-renderer><ytd-grid-video-renderer class="style-scope ytd-grid-renderer" lockup=""><!--css-build:shady--><div id="dismissable" class="style-scope ytd-grid-video-renderer"><ytd-thumbnail use-hovered-property="" class="style-scope ytd-grid-video-renderer"><!--css-build:shady--><a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=kXE2aLhF9uA">
+  <yt-img-shadow ftl-eligible="" class="style-scope ytd-thumbnail no-transition empty" style="background-color: transparent;"><!--css-build:shady--><img id="img" class="style-scope yt-img-shadow" alt="" width="210"></yt-img-shadow>
+  
+  <div id="overlays" class="style-scope ytd-thumbnail"><ytd-thumbnail-overlay-time-status-renderer class="style-scope ytd-thumbnail" overlay-style="DEFAULT"><!--css-build:shady--><yt-icon class="style-scope ytd-thumbnail-overlay-time-status-renderer" disable-upgrade="" hidden=""></yt-icon><span class="style-scope ytd-thumbnail-overlay-time-status-renderer" aria-label="22 minutes, 8 seconds">
+  22:08
+</span></ytd-thumbnail-overlay-time-status-renderer><ytd-thumbnail-overlay-now-playing-renderer class="style-scope ytd-thumbnail"><!--css-build:shady--><span class="style-scope ytd-thumbnail-overlay-now-playing-renderer">Now playing</span>
+</ytd-thumbnail-overlay-now-playing-renderer></div>
+  <div id="mouseover-overlay" class="style-scope ytd-thumbnail"></div>
+  <div id="hover-overlays" class="style-scope ytd-thumbnail"></div>
+</a>
+</ytd-thumbnail><div id="details" class="style-scope ytd-grid-video-renderer"><div id="meta" class="style-scope ytd-grid-video-renderer"><h3 class="style-scope ytd-grid-video-renderer"><ytd-badge-supported-renderer class="style-scope ytd-grid-video-renderer" disable-upgrade="" hidden=""></ytd-badge-supported-renderer><a id="video-title" class="yt-simple-endpoint style-scope ytd-grid-video-renderer" aria-label="20 Minute Legs &amp; Glutes Stretch | TRANSCEND - Day 6 by Sydney Cummings 3 weeks ago 22 minutes 41,419 views" title="20 Minute Legs &amp; Glutes Stretch | TRANSCEND - Day 6" href="/watch?v=kXE2aLhF9uA">20 Minute Legs &amp; Glutes Stretch | TRANSCEND - Day 6</a></h3><div id="metadata-container" class="grid style-scope ytd-grid-video-renderer" meta-block=""><div id="metadata" class="style-scope ytd-grid-video-renderer"><div id="byline-container" class="style-scope ytd-grid-video-renderer" hidden=""><ytd-channel-name id="channel-name" class="style-scope ytd-grid-video-renderer"><!--css-build:shady--><div id="container" class="style-scope ytd-channel-name">
+  <div id="text-container" class="style-scope ytd-channel-name">
+    <yt-formatted-string id="text" title="" class="style-scope ytd-channel-name" ellipsis-truncate=""></yt-formatted-string>
+  </div>
+  <paper-tooltip fit-to-visible-bounds="" class="style-scope ytd-channel-name" role="tooltip" tabindex="-1"><!--css-build:shady-->
+    
+
+    <div id="tooltip" class="hidden style-scope paper-tooltip">
+      
+    
+  
+    </div>
+</paper-tooltip>
+</div>
+<ytd-badge-supported-renderer class="style-scope ytd-channel-name" disable-upgrade="" hidden="">
+</ytd-badge-supported-renderer>
+</ytd-channel-name></div><div id="metadata-line" class="style-scope ytd-grid-video-renderer"><span class="style-scope ytd-grid-video-renderer">41K views</span><span class="style-scope ytd-grid-video-renderer">3 weeks ago</span><dom-repeat strip-whitespace="" class="style-scope ytd-grid-video-renderer"><template is="dom-repeat"></template></dom-repeat></div></div><div id="additional-metadata-line" class="style-scope ytd-grid-video-renderer"><dom-repeat strip-whitespace="" class="style-scope ytd-grid-video-renderer"><template is="dom-repeat"></template></dom-repeat></div></div></div><ytd-badge-supported-renderer id="video-badges" class="style-scope ytd-grid-video-renderer" disable-upgrade="" hidden=""></ytd-badge-supported-renderer><div id="menu" class="style-scope ytd-grid-video-renderer"><ytd-menu-renderer class="style-scope ytd-grid-video-renderer"><!--css-build:shady--><div id="top-level-buttons" class="style-scope ytd-menu-renderer"></div>
+<yt-icon-button id="button" class="dropdown-trigger style-scope ytd-menu-renderer"><!--css-build:shady--><button id="button" class="style-scope yt-icon-button" aria-label="Action menu">
+  <yt-icon class="style-scope ytd-menu-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" class="style-scope yt-icon" style="pointer-events: none; display: block; width: 100%; height: 100%;"><g class="style-scope yt-icon"><path d="M12 8c1.1 0 2-.9 2-2s-.9-2-2-2-2 .9-2 2 .9 2 2 2zm0 2c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm0 6c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2z" class="style-scope yt-icon"></path></g></svg><!--css-build:shady--></yt-icon>
+</button></yt-icon-button>
+</ytd-menu-renderer></div></div><div id="buttons" class="style-scope ytd-grid-video-renderer"></div></div><div id="dismissed" class="style-scope ytd-grid-video-renderer"><div id="dismissed-content" class="style-scope ytd-grid-video-renderer"></div></div></ytd-grid-video-renderer><ytd-grid-video-renderer class="style-scope ytd-grid-renderer" lockup=""><!--css-build:shady--><div id="dismissable" class="style-scope ytd-grid-video-renderer"><ytd-thumbnail use-hovered-property="" class="style-scope ytd-grid-video-renderer"><!--css-build:shady--><a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=oZBgyD4Ve4g">
+  <yt-img-shadow ftl-eligible="" class="style-scope ytd-thumbnail no-transition empty" style="background-color: transparent;"><!--css-build:shady--><img id="img" class="style-scope yt-img-shadow" alt="" width="210"></yt-img-shadow>
+  
+  <div id="overlays" class="style-scope ytd-thumbnail"><ytd-thumbnail-overlay-time-status-renderer class="style-scope ytd-thumbnail" overlay-style="DEFAULT"><!--css-build:shady--><yt-icon class="style-scope ytd-thumbnail-overlay-time-status-renderer" disable-upgrade="" hidden=""></yt-icon><span class="style-scope ytd-thumbnail-overlay-time-status-renderer" aria-label="50 minutes, 30 seconds">
+  50:30
+</span></ytd-thumbnail-overlay-time-status-renderer><ytd-thumbnail-overlay-now-playing-renderer class="style-scope ytd-thumbnail"><!--css-build:shady--><span class="style-scope ytd-thumbnail-overlay-now-playing-renderer">Now playing</span>
+</ytd-thumbnail-overlay-now-playing-renderer></div>
+  <div id="mouseover-overlay" class="style-scope ytd-thumbnail"></div>
+  <div id="hover-overlays" class="style-scope ytd-thumbnail"></div>
+</a>
+</ytd-thumbnail><div id="details" class="style-scope ytd-grid-video-renderer"><div id="meta" class="style-scope ytd-grid-video-renderer"><h3 class="style-scope ytd-grid-video-renderer"><ytd-badge-supported-renderer class="style-scope ytd-grid-video-renderer" disable-upgrade="" hidden=""></ytd-badge-supported-renderer><a id="video-title" class="yt-simple-endpoint style-scope ytd-grid-video-renderer" aria-label="45 Minute Glutes and Jump Rope Workout | TRANSCEND - Day 5 by Sydney Cummings 3 weeks ago 50 minutes 78,679 views" title="45 Minute Glutes and Jump Rope Workout | TRANSCEND - Day 5" href="/watch?v=oZBgyD4Ve4g">45 Minute Glutes and Jump Rope Workout | TRANSCEND - Day 5</a></h3><div id="metadata-container" class="grid style-scope ytd-grid-video-renderer" meta-block=""><div id="metadata" class="style-scope ytd-grid-video-renderer"><div id="byline-container" class="style-scope ytd-grid-video-renderer" hidden=""><ytd-channel-name id="channel-name" class="style-scope ytd-grid-video-renderer"><!--css-build:shady--><div id="container" class="style-scope ytd-channel-name">
+  <div id="text-container" class="style-scope ytd-channel-name">
+    <yt-formatted-string id="text" title="" class="style-scope ytd-channel-name" ellipsis-truncate=""></yt-formatted-string>
+  </div>
+  <paper-tooltip fit-to-visible-bounds="" class="style-scope ytd-channel-name" role="tooltip" tabindex="-1"><!--css-build:shady-->
+    
+
+    <div id="tooltip" class="hidden style-scope paper-tooltip">
+      
+    
+  
+    </div>
+</paper-tooltip>
+</div>
+<ytd-badge-supported-renderer class="style-scope ytd-channel-name" disable-upgrade="" hidden="">
+</ytd-badge-supported-renderer>
+</ytd-channel-name></div><div id="metadata-line" class="style-scope ytd-grid-video-renderer"><span class="style-scope ytd-grid-video-renderer">78K views</span><span class="style-scope ytd-grid-video-renderer">3 weeks ago</span><dom-repeat strip-whitespace="" class="style-scope ytd-grid-video-renderer"><template is="dom-repeat"></template></dom-repeat></div></div><div id="additional-metadata-line" class="style-scope ytd-grid-video-renderer"><dom-repeat strip-whitespace="" class="style-scope ytd-grid-video-renderer"><template is="dom-repeat"></template></dom-repeat></div></div></div><ytd-badge-supported-renderer id="video-badges" class="style-scope ytd-grid-video-renderer" disable-upgrade="" hidden=""></ytd-badge-supported-renderer><div id="menu" class="style-scope ytd-grid-video-renderer"><ytd-menu-renderer class="style-scope ytd-grid-video-renderer"><!--css-build:shady--><div id="top-level-buttons" class="style-scope ytd-menu-renderer"></div>
+<yt-icon-button id="button" class="dropdown-trigger style-scope ytd-menu-renderer"><!--css-build:shady--><button id="button" class="style-scope yt-icon-button" aria-label="Action menu">
+  <yt-icon class="style-scope ytd-menu-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" class="style-scope yt-icon" style="pointer-events: none; display: block; width: 100%; height: 100%;"><g class="style-scope yt-icon"><path d="M12 8c1.1 0 2-.9 2-2s-.9-2-2-2-2 .9-2 2 .9 2 2 2zm0 2c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm0 6c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2z" class="style-scope yt-icon"></path></g></svg><!--css-build:shady--></yt-icon>
+</button></yt-icon-button>
+</ytd-menu-renderer></div></div><div id="buttons" class="style-scope ytd-grid-video-renderer"></div></div><div id="dismissed" class="style-scope ytd-grid-video-renderer"><div id="dismissed-content" class="style-scope ytd-grid-video-renderer"></div></div></ytd-grid-video-renderer><ytd-grid-video-renderer class="style-scope ytd-grid-renderer" lockup=""><!--css-build:shady--><div id="dismissable" class="style-scope ytd-grid-video-renderer"><ytd-thumbnail use-hovered-property="" class="style-scope ytd-grid-video-renderer"><!--css-build:shady--><a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=Zv8Po_Nykuk">
+  <yt-img-shadow ftl-eligible="" class="style-scope ytd-thumbnail no-transition empty" style="background-color: transparent;"><!--css-build:shady--><img id="img" class="style-scope yt-img-shadow" alt="" width="210"></yt-img-shadow>
+  
+  <div id="overlays" class="style-scope ytd-thumbnail"><ytd-thumbnail-overlay-time-status-renderer class="style-scope ytd-thumbnail" overlay-style="DEFAULT"><!--css-build:shady--><yt-icon class="style-scope ytd-thumbnail-overlay-time-status-renderer" disable-upgrade="" hidden=""></yt-icon><span class="style-scope ytd-thumbnail-overlay-time-status-renderer" aria-label="47 minutes, 16 seconds">
+  47:16
+</span></ytd-thumbnail-overlay-time-status-renderer><ytd-thumbnail-overlay-now-playing-renderer class="style-scope ytd-thumbnail"><!--css-build:shady--><span class="style-scope ytd-thumbnail-overlay-now-playing-renderer">Now playing</span>
+</ytd-thumbnail-overlay-now-playing-renderer></div>
+  <div id="mouseover-overlay" class="style-scope ytd-thumbnail"></div>
+  <div id="hover-overlays" class="style-scope ytd-thumbnail"></div>
+</a>
+</ytd-thumbnail><div id="details" class="style-scope ytd-grid-video-renderer"><div id="meta" class="style-scope ytd-grid-video-renderer"><h3 class="style-scope ytd-grid-video-renderer"><ytd-badge-supported-renderer class="style-scope ytd-grid-video-renderer" disable-upgrade="" hidden=""></ytd-badge-supported-renderer><a id="video-title" class="yt-simple-endpoint style-scope ytd-grid-video-renderer" aria-label="40 Minute Upper Body Pull Sculpt Workout | TRANSCEND - Day 4 by Sydney Cummings 3 weeks ago 47 minutes 84,608 views" title="40 Minute Upper Body Pull Sculpt Workout | TRANSCEND - Day 4" href="/watch?v=Zv8Po_Nykuk">40 Minute Upper Body Pull Sculpt Workout | TRANSCEND - Day 4</a></h3><div id="metadata-container" class="grid style-scope ytd-grid-video-renderer" meta-block=""><div id="metadata" class="style-scope ytd-grid-video-renderer"><div id="byline-container" class="style-scope ytd-grid-video-renderer" hidden=""><ytd-channel-name id="channel-name" class="style-scope ytd-grid-video-renderer"><!--css-build:shady--><div id="container" class="style-scope ytd-channel-name">
+  <div id="text-container" class="style-scope ytd-channel-name">
+    <yt-formatted-string id="text" title="" class="style-scope ytd-channel-name" ellipsis-truncate=""></yt-formatted-string>
+  </div>
+  <paper-tooltip fit-to-visible-bounds="" class="style-scope ytd-channel-name" role="tooltip" tabindex="-1"><!--css-build:shady-->
+    
+
+    <div id="tooltip" class="hidden style-scope paper-tooltip">
+      
+    
+  
+    </div>
+</paper-tooltip>
+</div>
+<ytd-badge-supported-renderer class="style-scope ytd-channel-name" disable-upgrade="" hidden="">
+</ytd-badge-supported-renderer>
+</ytd-channel-name></div><div id="metadata-line" class="style-scope ytd-grid-video-renderer"><span class="style-scope ytd-grid-video-renderer">84K views</span><span class="style-scope ytd-grid-video-renderer">3 weeks ago</span><dom-repeat strip-whitespace="" class="style-scope ytd-grid-video-renderer"><template is="dom-repeat"></template></dom-repeat></div></div><div id="additional-metadata-line" class="style-scope ytd-grid-video-renderer"><dom-repeat strip-whitespace="" class="style-scope ytd-grid-video-renderer"><template is="dom-repeat"></template></dom-repeat></div></div></div><ytd-badge-supported-renderer id="video-badges" class="style-scope ytd-grid-video-renderer" disable-upgrade="" hidden=""></ytd-badge-supported-renderer><div id="menu" class="style-scope ytd-grid-video-renderer"><ytd-menu-renderer class="style-scope ytd-grid-video-renderer"><!--css-build:shady--><div id="top-level-buttons" class="style-scope ytd-menu-renderer"></div>
+<yt-icon-button id="button" class="dropdown-trigger style-scope ytd-menu-renderer"><!--css-build:shady--><button id="button" class="style-scope yt-icon-button" aria-label="Action menu">
+  <yt-icon class="style-scope ytd-menu-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" class="style-scope yt-icon" style="pointer-events: none; display: block; width: 100%; height: 100%;"><g class="style-scope yt-icon"><path d="M12 8c1.1 0 2-.9 2-2s-.9-2-2-2-2 .9-2 2 .9 2 2 2zm0 2c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm0 6c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2z" class="style-scope yt-icon"></path></g></svg><!--css-build:shady--></yt-icon>
+</button></yt-icon-button>
+</ytd-menu-renderer></div></div><div id="buttons" class="style-scope ytd-grid-video-renderer"></div></div><div id="dismissed" class="style-scope ytd-grid-video-renderer"><div id="dismissed-content" class="style-scope ytd-grid-video-renderer"></div></div></ytd-grid-video-renderer><ytd-grid-video-renderer class="style-scope ytd-grid-renderer" lockup=""><!--css-build:shady--><div id="dismissable" class="style-scope ytd-grid-video-renderer"><ytd-thumbnail use-hovered-property="" class="style-scope ytd-grid-video-renderer"><!--css-build:shady--><a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=XzascnhMyZg">
+  <yt-img-shadow ftl-eligible="" class="style-scope ytd-thumbnail no-transition empty" style="background-color: transparent;"><!--css-build:shady--><img id="img" class="style-scope yt-img-shadow" alt="" width="210"></yt-img-shadow>
+  
+  <div id="overlays" class="style-scope ytd-thumbnail"><ytd-thumbnail-overlay-time-status-renderer class="style-scope ytd-thumbnail" overlay-style="DEFAULT"><!--css-build:shady--><yt-icon class="style-scope ytd-thumbnail-overlay-time-status-renderer" disable-upgrade="" hidden=""></yt-icon><span class="style-scope ytd-thumbnail-overlay-time-status-renderer" aria-label="45 minutes, 18 seconds">
+  45:18
+</span></ytd-thumbnail-overlay-time-status-renderer><ytd-thumbnail-overlay-now-playing-renderer class="style-scope ytd-thumbnail"><!--css-build:shady--><span class="style-scope ytd-thumbnail-overlay-now-playing-renderer">Now playing</span>
+</ytd-thumbnail-overlay-now-playing-renderer></div>
+  <div id="mouseover-overlay" class="style-scope ytd-thumbnail"></div>
+  <div id="hover-overlays" class="style-scope ytd-thumbnail"></div>
+</a>
+</ytd-thumbnail><div id="details" class="style-scope ytd-grid-video-renderer"><div id="meta" class="style-scope ytd-grid-video-renderer"><h3 class="style-scope ytd-grid-video-renderer"><ytd-badge-supported-renderer class="style-scope ytd-grid-video-renderer" disable-upgrade="" hidden=""></ytd-badge-supported-renderer><a id="video-title" class="yt-simple-endpoint style-scope ytd-grid-video-renderer" aria-label="40 Minute NO Equipment Cardio and Abs Burnout Workout  | TRANSCEND - Day 3 by Sydney Cummings 3 weeks ago 45 minutes 145,236 views" title="40 Minute NO Equipment Cardio and Abs Burnout Workout  | TRANSCEND - Day 3" href="/watch?v=XzascnhMyZg">40 Minute NO Equipment Cardio and Abs Burnout Workout  | TRANSCEND - Day 3</a></h3><div id="metadata-container" class="grid style-scope ytd-grid-video-renderer" meta-block=""><div id="metadata" class="style-scope ytd-grid-video-renderer"><div id="byline-container" class="style-scope ytd-grid-video-renderer" hidden=""><ytd-channel-name id="channel-name" class="style-scope ytd-grid-video-renderer"><!--css-build:shady--><div id="container" class="style-scope ytd-channel-name">
+  <div id="text-container" class="style-scope ytd-channel-name">
+    <yt-formatted-string id="text" title="" class="style-scope ytd-channel-name" ellipsis-truncate=""></yt-formatted-string>
+  </div>
+  <paper-tooltip fit-to-visible-bounds="" class="style-scope ytd-channel-name" role="tooltip" tabindex="-1"><!--css-build:shady-->
+    
+
+    <div id="tooltip" class="hidden style-scope paper-tooltip">
+      
+    
+  
+    </div>
+</paper-tooltip>
+</div>
+<ytd-badge-supported-renderer class="style-scope ytd-channel-name" disable-upgrade="" hidden="">
+</ytd-badge-supported-renderer>
+</ytd-channel-name></div><div id="metadata-line" class="style-scope ytd-grid-video-renderer"><span class="style-scope ytd-grid-video-renderer">145K views</span><span class="style-scope ytd-grid-video-renderer">3 weeks ago</span><dom-repeat strip-whitespace="" class="style-scope ytd-grid-video-renderer"><template is="dom-repeat"></template></dom-repeat></div></div><div id="additional-metadata-line" class="style-scope ytd-grid-video-renderer"><dom-repeat strip-whitespace="" class="style-scope ytd-grid-video-renderer"><template is="dom-repeat"></template></dom-repeat></div></div></div><ytd-badge-supported-renderer id="video-badges" class="style-scope ytd-grid-video-renderer" disable-upgrade="" hidden=""></ytd-badge-supported-renderer><div id="menu" class="style-scope ytd-grid-video-renderer"><ytd-menu-renderer class="style-scope ytd-grid-video-renderer"><!--css-build:shady--><div id="top-level-buttons" class="style-scope ytd-menu-renderer"></div>
+<yt-icon-button id="button" class="dropdown-trigger style-scope ytd-menu-renderer"><!--css-build:shady--><button id="button" class="style-scope yt-icon-button" aria-label="Action menu">
+  <yt-icon class="style-scope ytd-menu-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" class="style-scope yt-icon" style="pointer-events: none; display: block; width: 100%; height: 100%;"><g class="style-scope yt-icon"><path d="M12 8c1.1 0 2-.9 2-2s-.9-2-2-2-2 .9-2 2 .9 2 2 2zm0 2c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm0 6c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2z" class="style-scope yt-icon"></path></g></svg><!--css-build:shady--></yt-icon>
+</button></yt-icon-button>
+</ytd-menu-renderer></div></div><div id="buttons" class="style-scope ytd-grid-video-renderer"></div></div><div id="dismissed" class="style-scope ytd-grid-video-renderer"><div id="dismissed-content" class="style-scope ytd-grid-video-renderer"></div></div></ytd-grid-video-renderer><ytd-grid-video-renderer class="style-scope ytd-grid-renderer" lockup=""><!--css-build:shady--><div id="dismissable" class="style-scope ytd-grid-video-renderer"><ytd-thumbnail use-hovered-property="" class="style-scope ytd-grid-video-renderer"><!--css-build:shady--><a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=9oN7lTi0WU4">
+  <yt-img-shadow ftl-eligible="" class="style-scope ytd-thumbnail no-transition empty" style="background-color: transparent;"><!--css-build:shady--><img id="img" class="style-scope yt-img-shadow" alt="" width="210"></yt-img-shadow>
+  
+  <div id="overlays" class="style-scope ytd-thumbnail"><ytd-thumbnail-overlay-time-status-renderer class="style-scope ytd-thumbnail" overlay-style="DEFAULT"><!--css-build:shady--><yt-icon class="style-scope ytd-thumbnail-overlay-time-status-renderer" disable-upgrade="" hidden=""></yt-icon><span class="style-scope ytd-thumbnail-overlay-time-status-renderer" aria-label="34 minutes, 11 seconds">
+  34:11
+</span></ytd-thumbnail-overlay-time-status-renderer><ytd-thumbnail-overlay-now-playing-renderer class="style-scope ytd-thumbnail"><!--css-build:shady--><span class="style-scope ytd-thumbnail-overlay-now-playing-renderer">Now playing</span>
+</ytd-thumbnail-overlay-now-playing-renderer></div>
+  <div id="mouseover-overlay" class="style-scope ytd-thumbnail"></div>
+  <div id="hover-overlays" class="style-scope ytd-thumbnail"></div>
+</a>
+</ytd-thumbnail><div id="details" class="style-scope ytd-grid-video-renderer"><div id="meta" class="style-scope ytd-grid-video-renderer"><h3 class="style-scope ytd-grid-video-renderer"><ytd-badge-supported-renderer class="style-scope ytd-grid-video-renderer" disable-upgrade="" hidden=""></ytd-badge-supported-renderer><a id="video-title" class="yt-simple-endpoint style-scope ytd-grid-video-renderer" aria-label="30 Minute Upper Body Push Sculpt Workout  | TRANSCEND - Day 2 by Sydney Cummings 4 weeks ago 34 minutes 113,983 views" title="30 Minute Upper Body Push Sculpt Workout  | TRANSCEND - Day 2" href="/watch?v=9oN7lTi0WU4">30 Minute Upper Body Push Sculpt Workout  | TRANSCEND - Day 2</a></h3><div id="metadata-container" class="grid style-scope ytd-grid-video-renderer" meta-block=""><div id="metadata" class="style-scope ytd-grid-video-renderer"><div id="byline-container" class="style-scope ytd-grid-video-renderer" hidden=""><ytd-channel-name id="channel-name" class="style-scope ytd-grid-video-renderer"><!--css-build:shady--><div id="container" class="style-scope ytd-channel-name">
+  <div id="text-container" class="style-scope ytd-channel-name">
+    <yt-formatted-string id="text" title="" class="style-scope ytd-channel-name" ellipsis-truncate=""></yt-formatted-string>
+  </div>
+  <paper-tooltip fit-to-visible-bounds="" class="style-scope ytd-channel-name" role="tooltip" tabindex="-1"><!--css-build:shady-->
+    
+
+    <div id="tooltip" class="hidden style-scope paper-tooltip">
+      
+    
+  
+    </div>
+</paper-tooltip>
+</div>
+<ytd-badge-supported-renderer class="style-scope ytd-channel-name" disable-upgrade="" hidden="">
+</ytd-badge-supported-renderer>
+</ytd-channel-name></div><div id="metadata-line" class="style-scope ytd-grid-video-renderer"><span class="style-scope ytd-grid-video-renderer">113K views</span><span class="style-scope ytd-grid-video-renderer">4 weeks ago</span><dom-repeat strip-whitespace="" class="style-scope ytd-grid-video-renderer"><template is="dom-repeat"></template></dom-repeat></div></div><div id="additional-metadata-line" class="style-scope ytd-grid-video-renderer"><dom-repeat strip-whitespace="" class="style-scope ytd-grid-video-renderer"><template is="dom-repeat"></template></dom-repeat></div></div></div><ytd-badge-supported-renderer id="video-badges" class="style-scope ytd-grid-video-renderer" disable-upgrade="" hidden=""></ytd-badge-supported-renderer><div id="menu" class="style-scope ytd-grid-video-renderer"><ytd-menu-renderer class="style-scope ytd-grid-video-renderer"><!--css-build:shady--><div id="top-level-buttons" class="style-scope ytd-menu-renderer"></div>
+<yt-icon-button id="button" class="dropdown-trigger style-scope ytd-menu-renderer"><!--css-build:shady--><button id="button" class="style-scope yt-icon-button" aria-label="Action menu">
+  <yt-icon class="style-scope ytd-menu-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" class="style-scope yt-icon" style="pointer-events: none; display: block; width: 100%; height: 100%;"><g class="style-scope yt-icon"><path d="M12 8c1.1 0 2-.9 2-2s-.9-2-2-2-2 .9-2 2 .9 2 2 2zm0 2c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm0 6c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2z" class="style-scope yt-icon"></path></g></svg><!--css-build:shady--></yt-icon>
+</button></yt-icon-button>
+</ytd-menu-renderer></div></div><div id="buttons" class="style-scope ytd-grid-video-renderer"></div></div><div id="dismissed" class="style-scope ytd-grid-video-renderer"><div id="dismissed-content" class="style-scope ytd-grid-video-renderer"></div></div></ytd-grid-video-renderer><ytd-grid-video-renderer class="style-scope ytd-grid-renderer" lockup=""><!--css-build:shady--><div id="dismissable" class="style-scope ytd-grid-video-renderer"><ytd-thumbnail use-hovered-property="" class="style-scope ytd-grid-video-renderer"><!--css-build:shady--><a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=CawSg6WRb1k">
+  <yt-img-shadow ftl-eligible="" class="style-scope ytd-thumbnail no-transition empty" style="background-color: transparent;"><!--css-build:shady--><img id="img" class="style-scope yt-img-shadow" alt="" width="210"></yt-img-shadow>
+  
+  <div id="overlays" class="style-scope ytd-thumbnail"><ytd-thumbnail-overlay-time-status-renderer class="style-scope ytd-thumbnail" overlay-style="DEFAULT"><!--css-build:shady--><yt-icon class="style-scope ytd-thumbnail-overlay-time-status-renderer" disable-upgrade="" hidden=""></yt-icon><span class="style-scope ytd-thumbnail-overlay-time-status-renderer" aria-label="44 minutes, 33 seconds">
+  44:33
+</span></ytd-thumbnail-overlay-time-status-renderer><ytd-thumbnail-overlay-now-playing-renderer class="style-scope ytd-thumbnail"><!--css-build:shady--><span class="style-scope ytd-thumbnail-overlay-now-playing-renderer">Now playing</span>
+</ytd-thumbnail-overlay-now-playing-renderer></div>
+  <div id="mouseover-overlay" class="style-scope ytd-thumbnail"></div>
+  <div id="hover-overlays" class="style-scope ytd-thumbnail"></div>
+</a>
+</ytd-thumbnail><div id="details" class="style-scope ytd-grid-video-renderer"><div id="meta" class="style-scope ytd-grid-video-renderer"><h3 class="style-scope ytd-grid-video-renderer"><ytd-badge-supported-renderer class="style-scope ytd-grid-video-renderer" disable-upgrade="" hidden=""></ytd-badge-supported-renderer><a id="video-title" class="yt-simple-endpoint style-scope ytd-grid-video-renderer" aria-label="40 Minute Legs - Level 1 Workout | TRANSCEND - Day 1 by Sydney Cummings 4 weeks ago 44 minutes 145,288 views" title="40 Minute Legs - Level 1 Workout | TRANSCEND - Day 1" href="/watch?v=CawSg6WRb1k">40 Minute Legs - Level 1 Workout | TRANSCEND - Day 1</a></h3><div id="metadata-container" class="grid style-scope ytd-grid-video-renderer" meta-block=""><div id="metadata" class="style-scope ytd-grid-video-renderer"><div id="byline-container" class="style-scope ytd-grid-video-renderer" hidden=""><ytd-channel-name id="channel-name" class="style-scope ytd-grid-video-renderer"><!--css-build:shady--><div id="container" class="style-scope ytd-channel-name">
+  <div id="text-container" class="style-scope ytd-channel-name">
+    <yt-formatted-string id="text" title="" class="style-scope ytd-channel-name" ellipsis-truncate=""></yt-formatted-string>
+  </div>
+  <paper-tooltip fit-to-visible-bounds="" class="style-scope ytd-channel-name" role="tooltip" tabindex="-1"><!--css-build:shady-->
+    
+
+    <div id="tooltip" class="hidden style-scope paper-tooltip">
+      
+    
+  
+    </div>
+</paper-tooltip>
+</div>
+<ytd-badge-supported-renderer class="style-scope ytd-channel-name" disable-upgrade="" hidden="">
+</ytd-badge-supported-renderer>
+</ytd-channel-name></div><div id="metadata-line" class="style-scope ytd-grid-video-renderer"><span class="style-scope ytd-grid-video-renderer">145K views</span><span class="style-scope ytd-grid-video-renderer">4 weeks ago</span><dom-repeat strip-whitespace="" class="style-scope ytd-grid-video-renderer"><template is="dom-repeat"></template></dom-repeat></div></div><div id="additional-metadata-line" class="style-scope ytd-grid-video-renderer"><dom-repeat strip-whitespace="" class="style-scope ytd-grid-video-renderer"><template is="dom-repeat"></template></dom-repeat></div></div></div><ytd-badge-supported-renderer id="video-badges" class="style-scope ytd-grid-video-renderer" disable-upgrade="" hidden=""></ytd-badge-supported-renderer><div id="menu" class="style-scope ytd-grid-video-renderer"><ytd-menu-renderer class="style-scope ytd-grid-video-renderer"><!--css-build:shady--><div id="top-level-buttons" class="style-scope ytd-menu-renderer"></div>
+<yt-icon-button id="button" class="dropdown-trigger style-scope ytd-menu-renderer"><!--css-build:shady--><button id="button" class="style-scope yt-icon-button" aria-label="Action menu">
+  <yt-icon class="style-scope ytd-menu-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" class="style-scope yt-icon" style="pointer-events: none; display: block; width: 100%; height: 100%;"><g class="style-scope yt-icon"><path d="M12 8c1.1 0 2-.9 2-2s-.9-2-2-2-2 .9-2 2 .9 2 2 2zm0 2c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm0 6c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2z" class="style-scope yt-icon"></path></g></svg><!--css-build:shady--></yt-icon>
+</button></yt-icon-button>
+</ytd-menu-renderer></div></div><div id="buttons" class="style-scope ytd-grid-video-renderer"></div></div><div id="dismissed" class="style-scope ytd-grid-video-renderer"><div id="dismissed-content" class="style-scope ytd-grid-video-renderer"></div></div></ytd-grid-video-renderer></div>
+<ytd-button-renderer id="show-more-button" align-by-text="" class="style-scope ytd-grid-renderer style-text size-default" use-keyboard-focused="" button-renderer="true" hidden=""></ytd-button-renderer>
+<yt-formatted-string id="view-all" class="style-scope ytd-grid-renderer" hidden=""><!--css-build:shady--></yt-formatted-string>
+<div id="continuations" class="style-scope ytd-grid-renderer"><yt-next-continuation class="style-scope ytd-grid-renderer"><!--css-build:shady-->
+
+  <paper-spinner id="spinner" class="style-scope yt-next-continuation" aria-hidden="true"><!--css-build:shady--><div id="spinnerContainer" class="  style-scope paper-spinner"><div class="spinner-layer layer-1 style-scope paper-spinner"><div class="circle-clipper left style-scope paper-spinner"><div class="circle style-scope paper-spinner"></div></div><div class="circle-clipper right style-scope paper-spinner"><div class="circle style-scope paper-spinner"></div></div></div><div class="spinner-layer layer-2 style-scope paper-spinner"><div class="circle-clipper left style-scope paper-spinner"><div class="circle style-scope paper-spinner"></div></div><div class="circle-clipper right style-scope paper-spinner"><div class="circle style-scope paper-spinner"></div></div></div><div class="spinner-layer layer-3 style-scope paper-spinner"><div class="circle-clipper left style-scope paper-spinner"><div class="circle style-scope paper-spinner"></div></div><div class="circle-clipper right style-scope paper-spinner"><div class="circle style-scope paper-spinner"></div></div></div><div class="spinner-layer layer-4 style-scope paper-spinner"><div class="circle-clipper left style-scope paper-spinner"><div class="circle style-scope paper-spinner"></div></div><div class="circle-clipper right style-scope paper-spinner"><div class="circle style-scope paper-spinner"></div></div></div></div></paper-spinner>
+<dom-if class="style-scope yt-next-continuation"><template is="dom-if"></template></dom-if>
+<dom-if class="style-scope yt-next-continuation"><template is="dom-if"></template></dom-if>
+</yt-next-continuation></div>
+</ytd-grid-renderer></div>
